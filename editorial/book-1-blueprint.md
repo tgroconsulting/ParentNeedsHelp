@@ -27,7 +27,7 @@
 | # | Working title | Reader problem | Tool | Target words | Status |
 |---|---|---|---|---|---|
 | 1 | Something Has Changed: Recognizing When an Aging Parent May Need Help | "Things aren't quite right, but am I overreacting?" | "What I've Noticed" worksheet | ~2,500 | Draft 1 (2026-11-02) |
-| 2 | | | | | Not started |
+| 2 | Is This an Emergency or Just a Bad Week? | "Everything feels urgent; what needs attention today?" | Red-Yellow-Green Sorting Card | ~2,500 | Draft 1 (2026-11-02) |
 | 3 | | | | | Not started |
 | 4 | | | | | Not started |
 | 5 | | | | | Not started |
@@ -62,3 +62,16 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** Do not diagnose dementia, explain disease progression, or provide detailed medical assessments. Those belong with qualified professionals and, where appropriate, later books.
 
 **Reader's final outcome:** "I may not know exactly what's happening, but I can explain what I've noticed and identify what needs attention."
+
+---
+
+## Chapter 2 — Is This an Emergency or Just a Bad Week?
+
+**Author direction (2026-11-02):**
+- Preserve the red-yellow-green system.
+- Ensure examples represent both cognitive and physical health changes.
+- Where supported by reliable sources, include or strengthen examples involving: breathing difficulty; sudden weakness; falls and head injuries; uncontrolled or rapidly worsening symptoms; medication mistakes or reactions; dehydration or inability to eat and drink; changes after surgery or hospital discharge; sudden confusion or delirium.
+- Do not create exhaustive medical symptom lists.
+- Do not imply that the reader can diagnose a condition. The reader's responsibility is to notice change and contact the appropriate professional.
+- Add a line directing families with recent discharge instructions to use the hospital's or clinician's after-hours number when appropriate.
+- Preserve the instruction to call 911 when red-flag symptoms are present.

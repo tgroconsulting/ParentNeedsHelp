@@ -98,30 +98,15 @@ How you approach a resistant parent, and what to do when you and your parent see
 
 ## How urgent is this?
 
-Most of what this chapter covers is the slow kind of change, the kind you observe over weeks and bring up with your parent and their doctor in due course. But some situations can't wait, and it's important to recognize them.
+Most of what this chapter covers is the slow kind of change, the kind you observe over weeks and bring up with your parent and their doctor in due course. But some situations can't wait, and the next chapter lays out a simple red-yellow-green system for sorting them. The short version:
 
-**Call 911 right away if your parent:**
+**Call 911 right away** for anything sudden and serious: signs of a possible stroke, trouble breathing, sudden confusion, loss of consciousness, a fall where your parent is badly hurt or hit their head and is acting differently, or any danger to themselves or someone else.³
 
-- Shows sudden signs of a possible stroke. The National Institute of Neurological Disorders and Stroke lists sudden numbness or weakness of the face, arm, or leg (especially on one side), sudden confusion or trouble speaking or understanding speech, sudden trouble seeing in one or both eyes, sudden trouble walking, dizziness, or loss of balance, and a sudden severe headache with no known cause. A quick check: Face (does one side droop when they smile?), Arms (does one drift down when both are raised?), Speech (is it slurred or strange?), and Time (call 911 right away). Note the time symptoms started.³
-- Becomes confused suddenly, especially if it's the first time it's happened for no apparent reason or it follows a head injury.⁴
-- Loses consciousness, even briefly.⁴
-- Is in danger of harming themselves or someone else.⁴
-- Has fallen and is seriously hurt, has hit their head and is acting differently, or can't get up.
+**Contact their doctor soon** when memory or thinking changes have lasted more than a few weeks (the National Institute on Aging advises talking with a doctor about noticeable memory changes),² after any fall, or when changes seem to line up with a new medication, an illness, or a hospital stay. Report what you've seen, and leave any decision about medications to the prescriber.
 
-**Contact their doctor soon (within days, not months) if:**
+**Keep watching and keep talking** when you've noticed one or two things that could have ordinary explanations, nothing is getting rapidly worse, and your parent is safe day to day.
 
-- Memory problems or noticeable changes in thinking have been going on for more than a few weeks. The National Institute on Aging advises talking with a doctor about noticeable memory changes and notes that problems that persist could be a sign of something more serious.²
-- Your parent has fallen, even without an obvious injury.
-- You've noticed changes that seem to line up with a new medication, a recent illness, or a hospital stay. Report what you've seen. Don't change, stop, or adjust any medication on your own; that's a decision for the prescriber.
-- They seem to be losing weight, not eating, or not managing basic daily needs.
-
-If your parent agrees, they can call the doctor themselves with you on the line, or let you join the appointment. If they don't want you involved, you can still share your observations with them and encourage them to bring them up.
-
-**Keep watching and keep talking if:**
-
-- You've noticed one or two things that could have ordinary explanations, nothing is getting rapidly worse, and your parent is safe day to day.
-
-These categories aren't perfect, and real situations don't always fit cleanly. If you're unsure whether something is an emergency, treat it as one. Calling 911, the doctor's after-hours line, or a nurse advice line if your parent's insurance or health system offers one to ask is always reasonable. Nobody will think less of you for checking.
+If your parent agrees, they can call the doctor with you on the line or let you join the appointment. If they'd rather you weren't involved, you can still share what you've noticed and encourage them to bring it up. And if you're ever unsure whether something is an emergency, treat it as one.
 
 ## Your first job is understanding
 
@@ -196,5 +181,4 @@ Pick one thing you've been noticing and write it down the way the specific examp
 
 1. Centers for Disease Control and Prevention, "Facts About Older Adult Falls," cdc.gov.
 2. National Institute on Aging, "Memory Problems, Forgetfulness, and Aging," nia.nih.gov.
-3. National Institute of Neurological Disorders and Stroke, "Stroke: Signs and Symptoms," ninds.nih.gov.
-4. MedlinePlus (U.S. National Library of Medicine), "Confusion," medlineplus.gov.
+3. National Institute of Neurological Disorders and Stroke, "Stroke: Signs and Symptoms," ninds.nih.gov; MedlinePlus (U.S. National Library of Medicine), "Confusion," medlineplus.gov.
