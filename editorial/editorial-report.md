@@ -20,6 +20,12 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 2 | Previous draft's tool (72-Hour Triage Checklist with a one-page "Grab Sheet" of medical info) replaced with a one-page Sorting Card plus numbers and call log. The Grab Sheet idea may belong in a later "get organized" chapter. | Continuity | Open |
 | 2 | Script for a parent refusing help in a red-flag moment rewritten to respect autonomy ("you can talk with them yourself") rather than implying the adult child decides. | Autonomy | Resolved |
 | 2 | Cross-reference: "Hospital discharge and care transitions get their own book in this series" (Book 5). Confirm wording once series titles are final. | Continuity | Open |
+| 3 | "Documents like these generally need to be signed while your parent can understand what they're signing, and the rules depend on your state." Standard legal principle, not tied to a fetched source. Attorney review recommended. | Legal review | Open |
+| 3 | The Lindqvist family is new, created per author direction as the "diagnosis-first" family, labeled as a composite. Diagnosis kept generic ("a new heart diagnosis," "a procedure," cardiac rehab). Confirm the name and whether this family recurs in later chapters. | Author confirmation | Open |
+| 3 | Assessment ratings use "Fine for now / Plan this month / Act within weeks" instead of the old draft's green/yellow/red, to avoid confusion with Chapter 2's emergency colors. | Continuity | Decision for author |
+| 3 | Old draft's statistics dropped (Michigan poll on medication reviews, CDC 2022 older-driver deaths, IIHS crash rates, FBI 2025 fraud losses, Health Affairs advance-directive rates) and the claim that household tasks decline before self-care. Not re-verified and not needed. | Fact | Dropped |
+| 3 | Cross-references to a home-safety book and to finances in "later chapters" need checking against final outlines. | Continuity | Open |
+| 3 | Length about 3,900 words including the assessment tool (about 3,050 of prose). Longest chapter so far, driven by the broadened assessment. Candidates to trim if needed: "When to bring in professional help" and the scripts. | Length | Decision for author |
 
 ## Per-chapter review notes
 
@@ -42,3 +48,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Reader's role framed as noticing change and contacting the right professional, stated explicitly in the opening, after the "why sorting is hard" section, and in the worked example.
 - Lists kept illustrative, not exhaustive.
 - Worked example is clearly labeled as made up.
+
+### Chapter 3: Everyone Says "Get Organized," But Organize What? (draft 1, 2026-11-02)
+
+- Seven-Area Assessment kept and broadened. Health section captures: current diagnoses, most recent hospitalization (date, hospital, reason), recent surgery or procedure, treating specialists, treatment or therapy schedule, discharge instructions, activity/lifting/driving restrictions, PT/OT/home health. Medications section captures recent changes. Daily functioning captures baseline, mobility changes, pain, fatigue, appetite, hydration, everyday tasks, and durable medical equipment. Transportation captures appointment and treatment transport and post-surgery driving limits.
+- Records list adds discharge papers, treatment/therapy schedules, and rehab/home-exercise instructions.
+- Plain-language guardrail stated explicitly near the start.
+- Lindqvist family shows gathering without taking over: copies papers rather than reading them in front of her, asks what the doctor said, asks to attend, accepts "not yet" on portal access, records baseline; remote sibling contributes by phone.

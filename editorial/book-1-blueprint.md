@@ -28,7 +28,7 @@
 |---|---|---|---|---|---|
 | 1 | Something Has Changed: Recognizing When an Aging Parent May Need Help | "Things aren't quite right, but am I overreacting?" | "What I've Noticed" worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 2 | Is This an Emergency or Just a Bad Week? | "Everything feels urgent; what needs attention today?" | Red-Yellow-Green Sorting Card | ~2,500 | Draft 1 (2026-11-02) |
-| 3 | | | | | Not started |
+| 3 | Everyone Says "Get Organized," But Organize What? | "Nobody tells me exactly what information I need." | Seven-Area Aging Parent Assessment | ~2,500 | Draft 1 (2026-11-02) |
 | 4 | | | | | Not started |
 | 5 | | | | | Not started |
 | 6 | | | | | Not started |
@@ -75,3 +75,14 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 - Do not imply that the reader can diagnose a condition. The reader's responsibility is to notice change and contact the appropriate professional.
 - Add a line directing families with recent discharge instructions to use the hospital's or clinician's after-hours number when appropriate.
 - Preserve the instruction to call 911 when red-flag symptoms are present.
+
+---
+
+## Chapter 3 — Everyone Says "Get Organized," But Organize What?
+
+**Author direction (2026-11-02):**
+- Broaden the Seven-Area Aging Parent Assessment.
+- Health and functioning sections must capture: current diagnoses; date and reason for the most recent hospitalization; recent surgery or procedure; treating specialists; treatment or therapy schedule; medication changes; discharge instructions; activity or lifting restrictions; PT, OT, or home-health involvement; mobility changes; pain, fatigue, appetite and hydration concerns; durable medical equipment; transportation needs; the parent's normal physical and mental baseline.
+- Add discharge papers, treatment schedules and rehabilitation instructions to the records readers may need to locate.
+- Use the diagnosis-first family to demonstrate gathering information without taking over (author chose a new family: the Lindqvists).
+- Do not turn the assessment into a medical chart. Keep it usable by an ordinary family member.
