@@ -12,7 +12,6 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 1 | Nurse advice line: phrased conditionally ("if your parent's insurance or health system offers one"). No availability claim made. | Fact | Resolved by wording |
 | 1 | Cross-references: chapter says resistant-parent conversations come "later in this book" and hospital discharge "later in this series." Confirm against final Book 1 chapter outlines. | Continuity | Open |
 | 1 | No author personal stories used. All examples are generic or framed as illustrative. If the author wants to add a confirmed personal opening, the first section is the natural place. | Author confirmation | Optional |
-
 | 1 | Urgency section trimmed (2026-11-02) to a short summary pointing to Chapter 2, to avoid duplicating the red-yellow-green system. Former notes 3 and 4 merged into one. | Continuity | Done |
 | 2 | Medical reviewer should sign off on the red/yellow/green assignments as a set, especially: serious fall → red; any fall → yellow; "not eating or drinking for a day or more" → yellow; "overdose with serious symptoms" → red (common-sense, no single source cited). | Medical review | Open |
 | 2 | Blood-thinner guidance is sourced to MedlinePlus's warfarin page but written as "a blood thinner." Confirm the same advice applies to other anticoagulants (e.g., apixaban MedlinePlus page) or narrow the wording. | Fact / medical review | Open |
