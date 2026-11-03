@@ -7,7 +7,7 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | Chapter | Item | Type | Status |
 |---|---|---|---|
 | 1 | "Call 911 if your parent has fallen and is seriously hurt, has hit their head and is acting differently, or can't get up." The head-injury confusion part is supported by MedlinePlus (1-06); "seriously hurt" and "can't get up" are common-sense guidance without a specific source cited. Find a source (NIA or CDC fall guidance) or keep as plain guidance. | Fact / medical review | Open |
-| 1 | "Contact their doctor soon if your parent has fallen, even without an obvious injury." CDC page supports that most don't tell their doctor; confirm an official source explicitly recommends telling the doctor about any fall (CDC STEADI caregiver brochure is a likely source). | Fact | Open |
+| 1 | "Contact their doctor soon if your parent has fallen, even without an obvious injury." CDC page supports that most don't tell their doctor; confirm an official source explicitly recommends telling the doctor about any fall (CDC STEADI caregiver brochure is a likely source). | Fact | Resolved: CDC STEADI caregiver brochure (log 6-05). Consider adding a note in Ch. 1/2. |
 | 1 | "Weight loss / not eating / not managing basic daily needs → contact doctor within days." Reasonable but unsourced; consider medical reviewer sign-off on the three urgency tiers as a whole. | Medical review | Open |
 | 1 | Nurse advice line: phrased conditionally ("if your parent's insurance or health system offers one"). No availability claim made. | Fact | Resolved by wording |
 | 1 | Cross-references: chapter says resistant-parent conversations come "later in this book" and hospital discharge "later in this series." Confirm against final Book 1 chapter outlines. | Continuity | Open |
@@ -34,6 +34,11 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 5 | "Ask before recording" stated without legal detail. State recording-consent laws vary; consider an attorney note or leave as is. | Legal review | Optional |
 | 5 | Cross-reference to Book 4 by title (*Keeping Track of Everything*). Titles are working titles. | Continuity | Open |
 | 5 | "Who to call" table is general guidance, not sourced except for test results (AHRQ). | Fact | Accepted as practical guidance |
+| 6 | Six areas overlap with Chapter 4's daily-life areas (meals, transportation, household, social, mobility). Chapter 6 reframes them around difficulty, preferences, and support, and points back to Chapter 4. Recheck in full-book repetition pass; consider merging lists or making Chapter 4's lighter. | Repetition | Open |
+| 6 | AARP statistic is from an advocacy organization's survey, attributed by name. Acceptable under sourcing rules, but flag if the author prefers government-only sources. | Fact | Decision for author |
+| 6 | Support table lists general options (grocery delivery, volunteer drivers, adult day programs) without availability or cost claims. | Fact | Resolved by wording |
+| 6 | Chapter avoids declaring homes safe/unsafe, judging independence, or prescribing renovations; equipment mentioned only with "ask a professional before buying." | Boundary | Resolved |
+| 6 | Cross-reference to Book 3 by working title. | Continuity | Open |
 
 ## Per-chapter review notes
 
@@ -76,3 +81,8 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Outline coverage: why information gets lost (multiple providers, short visits, setting, "it went fine," telephone effect, unclear follow-up ownership); concise question prep (top three, parent's goals first, what's changed); recording accurately (doctor said vs. my understanding, exact names, action items, after-visit summary); permission and authorization (verbal in room, written release at each office, HIPAA personal representative, privacy within permission); tracking (one calendar, contact list, open-questions list, note-taker, update template); clarifying confusing instructions (call, be specific, pharmacist, tell both providers if they conflict, don't change meds); who to contact (table).
 - Boundary: explicit "what your role isn't" list; no treatment, medication, or diagnostic advice. Book 4 referenced for the full system.
 - Deliverable: reusable Appointment Preparation and Follow-Up Worksheet (Before / During / After).
+
+### Chapter 6: Is Home Still Working? (draft 1, 2026-11-02)
+
+- Outline coverage: why home matters (AARP 2024 statistic plus plain reasons); six areas (mobility, meals, transportation, household upkeep, accessibility, social isolation with NIA distinction); patterns vs. incidents (frequency, duration, obvious cause, workarounds, consequences); conversations about what's hard and what help is welcome, with scripts; everyday support table plus Area Agencies on Aging; when professional assessments fit (falls/unsteadiness per CDC and NIA, post-illness, equipment, memory affecting tasks, family disagreement); choosing one or two adjustments with a labeled made-up example.
+- Deliverable: Home and Daily-Life Observation Checklist with one-time/pattern, parent finds it hard, help welcomed, help not wanted, support to try, professional questions, and a two-change trial plan.

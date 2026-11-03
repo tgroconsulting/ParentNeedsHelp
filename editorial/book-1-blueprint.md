@@ -31,7 +31,7 @@
 | 3 | Everyone Says "Get Organized," But Organize What? | "Nobody tells me exactly what information I need." | Seven-Area Aging Parent Assessment | ~2,500 | Draft 1 (2026-11-02) |
 | 4 | What's Actually Going On? Separating Facts, Assumptions, and Family Opinions | 'My sister thinks Dad is fine. I think something is wrong.' | Current Situation Snapshot | ~2,500 | Draft 1 (2026-11-02) |
 | 5 | Making Sense of the Appointments: Being Helpful Without Becoming the Doctor | "Three appointments, and none of us knows what happened." | Appointment Preparation and Follow-Up Worksheet | ~2,500 | Draft 1 (2026-11-02) |
-| 6 | | | | | Not started |
+| 6 | Is Home Still Working? Looking at Everyday Independence and Support | "Every time I visit, something else hasn't been taken care of." | Home and Daily-Life Observation Checklist | ~2,500 | Draft 1 (2026-11-02) |
 | 7 | | | | | Not started |
 | 8 | | | | | Not started |
 | 9 | | | | | Not started |
@@ -134,3 +134,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** No treatment recommendations, medication changes, diagnoses, or individualized medical advice. Book 4 will provide the comprehensive healthcare information-management system.
 
 **Reader's final outcome:** "I can help make appointments more productive and keep track of what needs to happen afterward."
+
+---
+
+## Chapter 6 — Is Home Still Working?
+### Looking at Everyday Independence and Support
+
+**Opening frustration:** "Every time I visit, I find something else that hasn't been taken care of."
+
+**Purpose:** Help readers recognize when everyday tasks may be becoming more difficult for a parent and how to explore supportive changes without immediately assuming they must leave their home.
+
+**What this chapter must accomplish:**
+1. Explain why remaining at home can be deeply important to older adults.
+2. Introduce common areas of concern: mobility, meals, transportation, household upkeep, accessibility, and social isolation.
+3. Discuss how to notice patterns rather than overreact to an isolated incident.
+4. Encourage conversations about what the parent finds difficult and what assistance they would welcome.
+5. Present examples of everyday support, such as help with shopping, transportation, chores, or community services.
+6. Explain when professional home-safety or functional assessments may be appropriate.
+7. Help readers identify one or two realistic adjustments instead of immediately pursuing major changes.
+
+**Practical deliverable:** A home and daily-life observation checklist, including support needs and parent preferences.
+
+**Chapter boundary:** Do not declare a home safe or unsafe, determine whether the parent can live independently, or prescribe renovations. Book 3 will explore independence and safety more deeply.
+
+**Reader's final outcome:** "I know which daily activities may need support and how to discuss possible changes."
