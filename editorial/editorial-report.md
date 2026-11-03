@@ -53,7 +53,7 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 9 | Cross-reference to Book 8 by working title. | Continuity | Open |
 | 10 | No new factual claims; chapter synthesizes Chapters 1–9. Future-challenges list previews Books 2–10 topics without titles or sales language. | Continuity | Resolved |
 | 10 | Closing message reviewed against "no motivational speeches" rule; kept short and concrete (ends on a specific action). Author may want to tune voice. | Style | Optional |
-| Book | Full-manuscript word count for Chapters 1–10 including tools and notes is above the 20,000–25,000 target (see Ch. 10 notes). Main trimming candidates: repeated area lists (Ch. 3/4/6), Ch. 7 Part 4 vs. Ch. 8 worksheet, and Ch. 3 professional-help section. Front matter (author's note, how to use, disclosures) and back matter (resources, consolidated source notes) not yet written. | Length / structure | Open |
+| Book | Word count: about 24,750 words of chapter prose (excluding tools and notes), within the 20,000–25,000 target; about 29,150 including tools and notes. Ch. 3 is the longest (about 3,300 prose words). Main trimming candidates: repeated area lists (Ch. 3/4/6), Ch. 7 Part 4 vs. Ch. 8 worksheet, and Ch. 3 professional-help section. Front matter (author's note, how to use, disclosures) and back matter (resources, consolidated source notes) not yet written. | Length / structure | Open |
 
 ## Per-chapter review notes
 
