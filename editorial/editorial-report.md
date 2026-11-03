@@ -39,6 +39,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 6 | Support table lists general options (grocery delivery, volunteer drivers, adult day programs) without availability or cost claims. | Fact | Resolved by wording |
 | 6 | Chapter avoids declaring homes safe/unsafe, judging independence, or prescribing renovations; equipment mentioned only with "ask a professional before buying." | Boundary | Resolved |
 | 6 | Cross-reference to Book 3 by working title. | Continuity | Open |
+| 7 | Overlap with Ch. 3 (records list, document types) and Ch. 5 (contact list, open-questions list). Ch. 7 explicitly positions itself as consolidating those into one system. Recheck in the repetition pass; Ch. 3's records list could be shortened to point here. | Repetition | Open |
+| 7 | Chapter 3 says documents "generally need to be signed while your parent can understand" and mentions guardianship; Chapter 7's boundary forbids interpreting legal authorization. Ch. 7 itself stays within the boundary (location only), but confirm the author is comfortable with Ch. 3's level of legal explanation. | Boundary / continuity | Decision for author |
+| 7 | Emergency page includes "Allergies (as listed by their doctor)." Practical for ER use; not medical advice. | Medical review | Optional |
+| 7 | Sample phone number uses the 555-01XX range reserved for fiction. | Style | Resolved |
 
 ## Per-chapter review notes
 
@@ -86,3 +90,9 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 
 - Outline coverage: why home matters (AARP 2024 statistic plus plain reasons); six areas (mobility, meals, transportation, household upkeep, accessibility, social isolation with NIA distinction); patterns vs. incidents (frequency, duration, obvious cause, workarounds, consequences); conversations about what's hard and what help is welcome, with scripts; everyday support table plus Area Agencies on Aging; when professional assessments fit (falls/unsteadiness per CDC and NIA, post-illness, equipment, memory affecting tasks, family disagreement); choosing one or two adjustments with a labeled made-up example.
 - Deliverable: Home and Daily-Life Observation Checklist with one-time/pattern, parent finds it hard, help welcomed, help not wanted, support to try, professional questions, and a two-change trial plan.
+
+### Chapter 7: The Information Nobody Can Find (draft 1, 2026-11-02)
+
+- Outline coverage: costs of missing information (ER, refills, home health calls, covering sibling, dropped follow-ups); contacts (parent basics, emergency, providers with specialty, pharmacies, hospital preference, home health/equipment, plans, community organizations, neighbors, other professionals, house, pet); running list of appointments/follow-ups/questions with sample table and weekly review; collecting less (locations not contents, no account numbers/passwords, SSA and Medicare guidance on identifiers, outdated info per FTC); consent, access levels (emergency page / full organizer / sensitive), secure paper and digital storage; documents by location only, no interpretation, legal questions routed to preparer or relying institution; current responsibilities; keeping current (dates, triggers, one keeper, monthly and quarterly reviews, replace old copies); labeled made-up example.
+- Boundary: no recommendation to create estate documents; no interpretation of legal authority; no financial advice. "Bills (only if parent has asked for help)" in responsibilities.
+- Deliverable: Essential Information Organizer in six parts (emergency page, contacts, document locations, current responsibilities, outstanding tasks, access and updates).

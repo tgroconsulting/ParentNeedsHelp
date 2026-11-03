@@ -32,7 +32,7 @@
 | 4 | What's Actually Going On? Separating Facts, Assumptions, and Family Opinions | 'My sister thinks Dad is fine. I think something is wrong.' | Current Situation Snapshot | ~2,500 | Draft 1 (2026-11-02) |
 | 5 | Making Sense of the Appointments: Being Helpful Without Becoming the Doctor | "Three appointments, and none of us knows what happened." | Appointment Preparation and Follow-Up Worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 6 | Is Home Still Working? Looking at Everyday Independence and Support | "Every time I visit, something else hasn't been taken care of." | Home and Daily-Life Observation Checklist | ~2,500 | Draft 1 (2026-11-02) |
-| 7 | | | | | Not started |
+| 7 | The Information Nobody Can Find: Getting the Essentials Organized | "Nobody knows Dad's specialist, his pharmacy, or who to call." | Essential Information Organizer | ~2,500 | Draft 1 (2026-11-02) |
 | 8 | | | | | Not started |
 | 9 | | | | | Not started |
 | 10 | | | | | Not started |
@@ -158,3 +158,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** Do not declare a home safe or unsafe, determine whether the parent can live independently, or prescribe renovations. Book 3 will explore independence and safety more deeply.
 
 **Reader's final outcome:** "I know which daily activities may need support and how to discuss possible changes."
+
+---
+
+## Chapter 7 — The Information Nobody Can Find
+### Getting the Essentials Organized
+
+**Opening frustration:** "Nobody knows the name of Dad's specialist, which pharmacy he uses, or who to call if something happens."
+
+**Purpose:** Show readers how to build a simple, accessible information system that reduces confusion when help is needed.
+
+**What this chapter must accomplish:**
+1. Explain how missing information creates avoidable delays and confusion.
+2. Identify the basic contact information families may need, including providers, pharmacies, emergency contacts, and relevant service organizations.
+3. Show how to create a centralized list of appointments, follow-ups, and important questions.
+4. Discuss how to organize documents without collecting more sensitive information than necessary.
+5. Explain the importance of the parent's consent, secure storage, and appropriate access.
+6. Introduce the idea of identifying important documents and where they are kept without interpreting their legal or financial meaning.
+7. Demonstrate how to keep information updated as circumstances change.
+
+**Practical deliverable:** An "Essential Information Organizer" containing contacts, document locations, current responsibilities, and outstanding tasks.
+
+**Chapter boundary:** Do not recommend estate-planning documents, interpret legal authorization, or provide financial planning advice.
+
+**Reader's final outcome:** "I have a practical system for keeping essential information organized and accessible to the right people."
