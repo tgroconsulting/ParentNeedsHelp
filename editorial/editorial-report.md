@@ -51,6 +51,9 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 9 | FMLA paragraph is general legal information; no eligibility determination. Attorney or HR-professional review optional. | Legal review | Optional |
 | 9 | Medicare home health coverage summarized from Medicare.gov; framed as background, not a benefits strategy. Re-verify before publication. | Fact | Open (re-verify at print) |
 | 9 | Cross-reference to Book 8 by working title. | Continuity | Open |
+| 10 | No new factual claims; chapter synthesizes Chapters 1–9. Future-challenges list previews Books 2–10 topics without titles or sales language. | Continuity | Resolved |
+| 10 | Closing message reviewed against "no motivational speeches" rule; kept short and concrete (ends on a specific action). Author may want to tune voice. | Style | Optional |
+| Book | Full-manuscript word count for Chapters 1–10 including tools and notes is above the 20,000–25,000 target (see Ch. 10 notes). Main trimming candidates: repeated area lists (Ch. 3/4/6), Ch. 7 Part 4 vs. Ch. 8 worksheet, and Ch. 3 professional-help section. Front matter (author's note, how to use, disclosures) and back matter (resources, consolidated source notes) not yet written. | Length / structure | Open |
 
 ## Per-chapter review notes
 
@@ -115,3 +118,9 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Outline coverage: why responsibilities expand; sorting family vs. outside tasks (six-month test, skills, parent preference, backup, gaps); work and FMLA; categories (transportation, meal programs, community aging services, home health vs. non-medical home care, adult day, caregiver support and respite, SHIP for insurance questions); where to start (AAA/Eldercare Locator, 211, SHIP, doctor/social worker/discharge planner, Care Compare, faith community, state agency on aging) with a caution about paid referral sites; question lists (service, cost, people and quality, fit); local and current verification; choosing one area, with labeled made-up example.
 - Boundary: no insurance or benefit strategies; no specific providers recommended; insurance questions routed to SHIP. Book 8 referenced.
 - Deliverable: Outside Help Starter List (needs, places to start, contacts with dates, question checklist, one-area plan).
+
+### Chapter 10: The Next 30 Days (draft 1, 2026-11-02)
+
+- Outline coverage: review of what the reader now knows (tool list by chapter plus four foundation questions); choosing up to three priorities plus the parent's own; loose time frames (now / this week / two weeks / end of month / later) with urgent items explicitly outside the timeline; ownership including parent and outside help, "could vs. will"; update routine (weekly 15 minutes, weekly family update, monthly with parent, immediate triggers); why plans change and signs a bigger rethink is needed; brief, non-promotional preview of later challenges; grounded closing.
+- Boundary: explicitly says not everything will be sorted out in a month; the example leaves two issues unresolved and moves them to next month.
+- Deliverable: First-30-Days Action Plan covering urgent items (handled now), unresolved concerns, conversations, appointment/information follow-ups, household and daily-life support, family responsibilities, outside contacts, later items, rough timing, and review dates.

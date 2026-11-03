@@ -35,7 +35,7 @@
 | 7 | The Information Nobody Can Find: Getting the Essentials Organized | "Nobody knows Dad's specialist, his pharmacy, or who to call." | Essential Information Organizer | ~2,500 | Draft 1 (2026-11-02) |
 | 8 | Getting the Family on the Same Page: Sharing Information, Responsibilities, and Decisions | "Everyone has an opinion, but I'm the only one doing anything." | Family Coordination Worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 9 | Knowing When to Ask for Help: Understanding What Family Can and Cannot Do Alone | "I can't keep taking time off work, and I don't know what help exists." | Outside Help Starter List | ~2,500 | Draft 1 (2026-11-02) |
-| 10 | | | | | Not started |
+| 10 | The Next 30 Days: Building a Plan That Can Actually Work | "What happens when I go back to my normal schedule?" | First-30-Days Action Plan | ~2,500 | Draft 1 (2026-11-02) |
 
 Book target: approximately 20,000–25,000 words across ten chapters, excluding supplemental materials.
 
@@ -230,3 +230,28 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** Do not recommend specific insurance arrangements, benefits strategies, or care providers without appropriate verification. Book 8 will cover evaluating and coordinating outside care in greater detail.
 
 **Reader's final outcome:** "I know where to begin looking for help, and I don't have to personally handle every responsibility."
+
+---
+
+## Chapter 10 — The Next 30 Days
+### Building a Plan That Can Actually Work
+
+**Opening frustration:** "I've spent the last few weeks putting out fires. What happens when I go back to my normal schedule?"
+
+**Purpose:** Bring the book's lessons together into a realistic, adaptable action plan that helps readers move from reacting to problems toward coordinated support.
+
+**What this chapter must accomplish:**
+1. Review what the reader now understands about their parent's situation, needs, preferences, and available support.
+2. Help readers choose a limited number of meaningful priorities.
+3. Organize remaining tasks into manageable time frames.
+4. Identify ownership of responsibilities without assuming the reader must manage everything.
+5. Establish a simple process for updating information and communicating with family members.
+6. Explain why plans should change as new information becomes available.
+7. Introduce future caregiving challenges without overwhelming the reader or duplicating the remaining books.
+8. Close the book with a grounded message: readers do not need all the answers to make meaningful progress.
+
+**Practical deliverable:** A comprehensive first-30-days action plan featuring: immediate and unresolved concerns; important conversations; appointment and information follow-ups; household and daily-life support; family responsibilities; outside resource contacts; planned review dates. The plan should flex around the family's actual situation rather than impose artificial deadlines on urgent issues.
+
+**Chapter boundary:** Do not promise that all major problems can be resolved within 30 days.
+
+**Reader's final outcome:** "I have a plan I can use, people I can contact, and a clearer idea of what comes next."
