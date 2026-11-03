@@ -22,11 +22,11 @@
 
 ## Chapter outlines
 
-*Pending: updated chapter outlines to be added by the author.*
+*Chapter outlines are added as the author supplies them.*
 
 | # | Working title | Reader problem | Tool | Target words | Status |
 |---|---|---|---|---|---|
-| 1 | | | | | Not started |
+| 1 | Something Has Changed: Recognizing When an Aging Parent May Need Help | "Things aren't quite right, but am I overreacting?" | "What I've Noticed" worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 2 | | | | | Not started |
 | 3 | | | | | Not started |
 | 4 | | | | | Not started |
@@ -38,3 +38,27 @@
 | 10 | | | | | Not started |
 
 Book target: approximately 20,000–25,000 words across ten chapters, excluding supplemental materials.
+
+---
+
+## Chapter 1 — Something Has Changed
+### Recognizing When an Aging Parent May Need Help
+
+**Opening frustration:** "Things aren't quite right with Mom or Dad anymore. I can see it, but I don't know whether I'm overreacting."
+
+**Purpose:** Help readers understand that caregiving often begins with uncertainty rather than a dramatic event. Give them a realistic way to recognize changes, observe concerns, and decide what deserves attention.
+
+**What this chapter must accomplish:**
+1. Establish how easily small changes can go unnoticed or be explained away.
+2. Explore several starting points: a fall, hospitalization, missed obligations, household changes, social withdrawal, or a gradual increase in dependence.
+3. Explain the difference between observing something concerning and deciding what caused it.
+4. Help the reader document specific observations rather than relying on vague impressions.
+5. Discuss the importance of involving the parent in conversations rather than jumping immediately to control.
+6. Clearly distinguish routine concerns from situations that require prompt professional evaluation or immediate emergency assistance.
+7. Introduce the idea that the first job is understanding the situation—not trying to solve everything.
+
+**Practical deliverable:** A one-page "What I've Noticed" worksheet recording observed changes, dates, concerns, and unanswered questions.
+
+**Chapter boundary:** Do not diagnose dementia, explain disease progression, or provide detailed medical assessments. Those belong with qualified professionals and, where appropriate, later books.
+
+**Reader's final outcome:** "I may not know exactly what's happening, but I can explain what I've noticed and identify what needs attention."
