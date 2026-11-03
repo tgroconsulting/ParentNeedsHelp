@@ -43,6 +43,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 7 | Chapter 3 says documents "generally need to be signed while your parent can understand" and mentions guardianship; Chapter 7's boundary forbids interpreting legal authorization. Ch. 7 itself stays within the boundary (location only), but confirm the author is comfortable with Ch. 3's level of legal explanation. | Boundary / continuity | Decision for author |
 | 7 | Emergency page includes "Allergies (as listed by their doctor)." Practical for ER use; not medical advice. | Medical review | Optional |
 | 7 | Sample phone number uses the 555-01XX range reserved for fiction. | Style | Resolved |
+| 8 | Legal authority mentioned once and explicitly deferred ("a legal question... outside what this book covers"). Family finances deferred in one parenthetical. Conflict resolution kept to practical steps; deeper dynamics deferred to Book 6 by title. | Boundary | Resolved |
+| 8 | "Family expectations... sometimes shaped by birth order, gender..." is observational, no statistic claimed. | Fact | Resolved by wording |
+| 8 | Suggests "a counselor, a mediator, or a geriatric care manager" when talks break down; no claims about availability or cost beyond Ch. 4's sourced care-manager note. | Fact | Resolved by wording |
+| 8 | Responsibilities appear in both Ch. 7 (Part 4 of the organizer) and Ch. 8 (coordination worksheet). Ch. 8's worksheet is the fuller version; consider trimming Ch. 7's Part 4 to point here. | Repetition | Open |
 
 ## Per-chapter review notes
 
@@ -96,3 +100,8 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Outline coverage: costs of missing information (ER, refills, home health calls, covering sibling, dropped follow-ups); contacts (parent basics, emergency, providers with specialty, pharmacies, hospital preference, home health/equipment, plans, community organizations, neighbors, other professionals, house, pet); running list of appointments/follow-ups/questions with sample table and weekly review; collecting less (locations not contents, no account numbers/passwords, SSA and Medicare guidance on identifiers, outdated info per FTC); consent, access levels (emergency page / full organizer / sensitive), secure paper and digital storage; documents by location only, no interpretation, legal questions routed to preparer or relying institution; current responsibilities; keeping current (dates, triggers, one keeper, monthly and quarterly reviews, replace old copies); labeled made-up example.
 - Boundary: no recommendation to create estate documents; no interpretation of legal authority; no financial advice. "Bills (only if parent has asked for help)" in responsibilities.
 - Deliverable: Essential Information Organizer in six parts (emergency page, contacts, document locations, current responsibilities, outstanding tasks, access and updates).
+
+### Chapter 8: Getting the Family on the Same Page (draft 1, 2026-11-02)
+
+- Outline coverage: roles forming by accident; why shares differ (proximity, schedules, other responsibilities, relationships, skills, resources, parent preferences), with NIA support; information vs. options vs. parent's decisions, legal authority deferred; focused family conversation (one or two questions, include parent, share facts ahead, start with what works, facts before opinions, names and dates, short, written summary, ground rules); nine practical roles in a table; light communication routine (one channel, rhythm, urgent path, update template, privacy); disagreement (facts, name the question, parent's preferences, now vs. later, time-limited trial, outside information, don't assume roles predict who's right); labeled made-up example.
+- Deliverable: Family Coordination Worksheet (parent's wishes, who's involved, tasks with backup and check-in dates, communication plan, open questions sorted by type, trial agreement).

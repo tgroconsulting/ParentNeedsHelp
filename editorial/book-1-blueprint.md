@@ -33,7 +33,7 @@
 | 5 | Making Sense of the Appointments: Being Helpful Without Becoming the Doctor | "Three appointments, and none of us knows what happened." | Appointment Preparation and Follow-Up Worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 6 | Is Home Still Working? Looking at Everyday Independence and Support | "Every time I visit, something else hasn't been taken care of." | Home and Daily-Life Observation Checklist | ~2,500 | Draft 1 (2026-11-02) |
 | 7 | The Information Nobody Can Find: Getting the Essentials Organized | "Nobody knows Dad's specialist, his pharmacy, or who to call." | Essential Information Organizer | ~2,500 | Draft 1 (2026-11-02) |
-| 8 | | | | | Not started |
+| 8 | Getting the Family on the Same Page: Sharing Information, Responsibilities, and Decisions | "Everyone has an opinion, but I'm the only one doing anything." | Family Coordination Worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 9 | | | | | Not started |
 | 10 | | | | | Not started |
 
@@ -182,3 +182,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** Do not recommend estate-planning documents, interpret legal authorization, or provide financial planning advice.
 
 **Reader's final outcome:** "I have a practical system for keeping essential information organized and accessible to the right people."
+
+---
+
+## Chapter 8 — Getting the Family on the Same Page
+### Sharing Information, Responsibilities, and Decisions
+
+**Opening frustration:** "Everyone has an opinion about what should happen, but somehow I'm the only one doing anything."
+
+**Purpose:** Help readers move from unstructured family discussions to clearer communication and a realistic division of responsibilities.
+
+**What this chapter must accomplish:**
+1. Explain how family roles often form unintentionally during the first stages of caregiving.
+2. Discuss why proximity, work schedules, family relationships, and available resources affect responsibilities.
+3. Differentiate sharing information from having authority to make a particular decision.
+4. Show how to organize a focused family conversation around the parent's needs and preferences.
+5. Introduce practical roles such as appointment coordination, transportation, check-ins, and administrative organization.
+6. Explain how to establish a basic communication routine without overwhelming everyone.
+7. Address disagreement constructively, without assuming one sibling is always right or wrong.
+
+**Practical deliverable:** A family coordination worksheet covering tasks, responsible people, communication methods, and follow-up dates.
+
+**Chapter boundary:** Avoid detailed conflict resolution, legal authority, and family financial disputes. Book 6 will concentrate on deeper family dynamics and unequal caregiving responsibilities.
+
+**Reader's final outcome:** "We have a clearer picture of who's doing what, and we're relying less on assumptions."
