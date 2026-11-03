@@ -30,6 +30,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 4 | Some overlap with Chapter 1 (writing down observations) and Chapter 3 (asking without interrogating). Chapter 4 avoids repeating Chapter 3's specific tactics and focuses on sorting sources, reconciling family views, and privacy. Recheck in the full-book repetition pass. | Repetition | Open |
 | 4 | Illustrative family in the four-kinds-of-information table is unnamed apart from a neighbor ("Mrs. Alvarez") and labeled as made up. | Author confirmation | Resolved |
 | 4 | Opening mentions the Cardinals (St. Louis baseball). Regional detail; change if the author prefers neutral. | Style | Optional |
+| 5 | Medication examples ("water pill once a day vs. twice") are illustrative only and show calling the office, not resolving it. Medical reviewer may prefer a non-medication example. | Medical review | Optional |
+| 5 | "Ask before recording" stated without legal detail. State recording-consent laws vary; consider an attorney note or leave as is. | Legal review | Optional |
+| 5 | Cross-reference to Book 4 by title (*Keeping Track of Everything*). Titles are working titles. | Continuity | Open |
+| 5 | "Who to call" table is general guidance, not sourced except for test results (AHRQ). | Fact | Accepted as practical guidance |
 
 ## Per-chapter review notes
 
@@ -66,3 +70,9 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Boundary stated twice: not a formal clinical, cognitive, or home-safety assessment.
 - Deliverable: Current Situation Snapshot with observations (with source tags), parent preferences, unknowns, who can clarify, agreement/disagreement, and next steps.
 - Only two source-dependent claims (Eldercare Locator, geriatric care manager costs), both logged.
+
+### Chapter 5: Making Sense of the Appointments (draft 1, 2026-11-02)
+
+- Outline coverage: why information gets lost (multiple providers, short visits, setting, "it went fine," telephone effect, unclear follow-up ownership); concise question prep (top three, parent's goals first, what's changed); recording accurately (doctor said vs. my understanding, exact names, action items, after-visit summary); permission and authorization (verbal in room, written release at each office, HIPAA personal representative, privacy within permission); tracking (one calendar, contact list, open-questions list, note-taker, update template); clarifying confusing instructions (call, be specific, pharmacist, tell both providers if they conflict, don't change meds); who to contact (table).
+- Boundary: explicit "what your role isn't" list; no treatment, medication, or diagnostic advice. Book 4 referenced for the full system.
+- Deliverable: reusable Appointment Preparation and Follow-Up Worksheet (Before / During / After).

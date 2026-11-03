@@ -30,7 +30,7 @@
 | 2 | Is This an Emergency or Just a Bad Week? | "Everything feels urgent; what needs attention today?" | Red-Yellow-Green Sorting Card | ~2,500 | Draft 1 (2026-11-02) |
 | 3 | Everyone Says "Get Organized," But Organize What? | "Nobody tells me exactly what information I need." | Seven-Area Aging Parent Assessment | ~2,500 | Draft 1 (2026-11-02) |
 | 4 | What's Actually Going On? Separating Facts, Assumptions, and Family Opinions | 'My sister thinks Dad is fine. I think something is wrong.' | Current Situation Snapshot | ~2,500 | Draft 1 (2026-11-02) |
-| 5 | | | | | Not started |
+| 5 | Making Sense of the Appointments: Being Helpful Without Becoming the Doctor | "Three appointments, and none of us knows what happened." | Appointment Preparation and Follow-Up Worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 6 | | | | | Not started |
 | 7 | | | | | Not started |
 | 8 | | | | | Not started |
@@ -110,3 +110,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** This is not a formal clinical, cognitive, or home-safety assessment.
 
 **Reader's final outcome:** "I have a clearer picture of the situation and know what information is still missing."
+
+---
+
+## Chapter 5 — Making Sense of the Appointments
+### Being Helpful Without Becoming the Doctor
+
+**Opening frustration:** "Mom went to three appointments this month, and none of us seems to know what happened at any of them."
+
+**Purpose:** Teach readers how to help coordinate healthcare information and appointments without attempting to make medical decisions themselves.
+
+**What this chapter must accomplish:**
+1. Explain common communication challenges when several providers, appointments, and family members are involved.
+2. Show readers how to prepare a concise list of questions before an appointment.
+3. Explain how to record information and follow-up instructions accurately.
+4. Discuss the parent's permission and appropriate authorization for sharing medical information.
+5. Suggest practical ways to keep track of appointments, provider contact details, and unanswered questions.
+6. Explain how to request clarification when instructions are confusing or incomplete.
+7. Describe how to identify the appropriate healthcare professional to contact when follow-up questions arise.
+
+**Practical deliverable:** A reusable appointment preparation and follow-up worksheet.
+
+**Chapter boundary:** No treatment recommendations, medication changes, diagnoses, or individualized medical advice. Book 4 will provide the comprehensive healthcare information-management system.
+
+**Reader's final outcome:** "I can help make appointments more productive and keep track of what needs to happen afterward."
