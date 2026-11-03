@@ -46,11 +46,11 @@ One dirty kitchen is not a trend. Neither is one missed trash day, one meal of c
 
 What's worth paying attention to is a pattern: the same difficulty showing up again and again, getting gradually worse, or spreading from one area into others. A few questions help separate the two:
 
-- **How often?** Once, occasionally, or most of the time?
-- **For how long?** Since last week, or for months?
-- **Is there an obvious reason?** A cold, a sprained wrist, grief after a friend's death, a heat wave. Temporary causes often lead to temporary changes, though it's worth noticing whether things bounce back.
-- **Has your parent found a workaround?** Someone who can't reach the top shelf anymore but has moved everything down to the counter has solved the problem. Someone who can't reach it and has stopped using what's up there hasn't.
-- **What happens because of it?** Dusty shelves don't hurt anybody. Not eating enough, missing medications, or not being able to get out of the house for weeks has real consequences.
+- How often? Once, occasionally, or most of the time?
+- For how long? Since last week, or for months?
+- Is there an obvious reason? A cold, a sprained wrist, grief after a friend's death, a heat wave. Temporary causes often lead to temporary changes, though it's worth noticing whether things bounce back.
+- Has your parent found a workaround? Someone who can't reach the top shelf anymore but has moved everything down to the counter has solved the problem. Someone who can't reach it and has stopped using what's up there hasn't.
+- What happens because of it? Dusty shelves don't hurt anybody. Not eating enough, missing medications, or not being able to get out of the house for weeks has real consequences.
 
 If you're not sure whether something is a pattern, write it down and look again next time. Patterns tend to become obvious when you see the notes side by side.
 
@@ -102,11 +102,11 @@ You can notice a lot, but some questions are beyond what a family member can jud
 
 It may be time to ask your parent's doctor about a professional assessment when:
 
-- **Your parent has fallen, or seems unsteady or worried about falling.** The CDC advises telling a healthcare provider right away if a loved one has fallen, is worried about falling, or seems unsteady.⁵ The National Institute on Aging notes that after a fall, a doctor might suggest that an occupational therapist, physical therapist, or nurse visit the home to assess its safety and suggest changes.⁶
-- **Daily tasks have gotten noticeably harder after an illness, surgery, or hospital stay.** Ask whether therapy or home health services make sense.
-- **You're thinking about equipment or changes to the house.** Grab bars, shower chairs, stair lifts, and ramps can help, but the right choice depends on the person. Ask before buying.
-- **Changes in memory or thinking are affecting everyday tasks,** such as leaving the stove on or forgetting to eat.
-- **Family members disagree about whether your parent is managing.** An outside view can help everyone, including your parent, see the situation more clearly.
+- Your parent has fallen, or seems unsteady or worried about falling. The CDC advises telling a healthcare provider right away if a loved one has fallen, is worried about falling, or seems unsteady.⁵ The National Institute on Aging notes that after a fall, a doctor might suggest that an occupational therapist, physical therapist, or nurse visit the home to assess its safety and suggest changes.⁶
+- Daily tasks have gotten noticeably harder after an illness, surgery, or hospital stay. Ask whether therapy or home health services make sense.
+- You're thinking about equipment or changes to the house. Grab bars, shower chairs, stair lifts, and ramps can help, but the right choice depends on the person. Ask before buying.
+- Changes in memory or thinking are affecting everyday tasks, such as leaving the stove on or forgetting to eat.
+- Family members disagree about whether your parent is managing. An outside view can help everyone, including your parent, see the situation more clearly.
 
 The usual starting point is your parent's primary care doctor, who can refer them for an evaluation. A geriatric care manager (Chapter 4) can also help when the picture is complicated.
 
@@ -116,10 +116,10 @@ Once you've looked around and talked with your parent, it's tempting to fix ever
 
 To choose:
 
-1. **Start with what your parent finds hardest,** or what they said they'd most like help with.
-2. **Weigh what has the biggest consequences.** Not eating well or not getting to appointments matters more than an untidy garage.
-3. **Pick something easy to start and easy to undo.** A trial month of grocery pickup is a much smaller step than a cleaning service three days a week.
-4. **Agree on when you'll check in.** "Let's see how it goes for a few weeks and then talk about it."
+1. Start with what your parent finds hardest, or what they said they'd most like help with.
+2. Weigh what has the biggest consequences. Not eating well or not getting to appointments matters more than an untidy garage.
+3. Pick something easy to start and easy to undo. A trial month of grocery pickup is a much smaller step than a cleaning service three days a week.
+4. Agree on when you'll check in. "Let's see how it goes for a few weeks and then talk about it."
 
 Here's a made-up example. A father mentions that carrying laundry up and down the basement stairs has gotten hard, and his daughter has noticed he's been wearing the same few shirts. He doesn't want anyone doing his laundry. They agree to try two small things: she'll carry the full basket down when she visits on Sundays, and they'll move a hamper to the bedroom so he isn't carrying clothes around the house. After a month, he says it's working, and he's started asking her about the gutters. One small change made the next conversation easier.
 

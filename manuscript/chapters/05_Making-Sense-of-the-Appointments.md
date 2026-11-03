@@ -14,17 +14,17 @@ This chapter is about catching that information. It's not about understanding th
 
 It helps to understand why appointments are so hard to keep track of, because most of the reasons have nothing to do with anyone's competence.
 
-**Several providers, not much connection between them.** Your parent may see a primary care doctor, two or three specialists, a physical therapist, and a pharmacist. Each one sees their own piece. They don't always see each other's notes, and they may not know about a change another provider made last week.
+Several providers, not much connection between them. Your parent may see a primary care doctor, two or three specialists, a physical therapist, and a pharmacist. Each one sees their own piece. They don't always see each other's notes, and they may not know about a change another provider made last week.
 
-**Visits are short and dense.** A lot of information can come out in fifteen minutes: a new symptom to watch, a dose change, a test to schedule, a referral. Even someone who's paying close attention can leave with only part of it.
+Visits are short and dense. A lot of information can come out in fifteen minutes: a new symptom to watch, a dose change, a test to schedule, a referral. Even someone who's paying close attention can leave with only part of it.
 
-**The setting doesn't help.** Exam rooms can be noisy and rushed, and medical terms aren't everyday language. If your parent has trouble hearing, forgot their glasses, or was anxious about the visit, it's even harder to take it all in. None of this says anything about your parent's intelligence. Most people of any age walk out of a medical appointment remembering less than they think.
+The setting doesn't help. Exam rooms can be noisy and rushed, and medical terms aren't everyday language. If your parent has trouble hearing, forgot their glasses, or was anxious about the visit, it's even harder to take it all in. None of this says anything about your parent's intelligence. Most people of any age walk out of a medical appointment remembering less than they think.
 
-**"It went fine" isn't a summary.** Your parent may genuinely think it went fine, or may not want to worry you, or may just be tired of talking about it. You end up with the reassurance and none of the details.
+"It went fine" isn't a summary. Your parent may genuinely think it went fine, or may not want to worry you, or may just be tired of talking about it. You end up with the reassurance and none of the details.
 
-**Information changes as it's passed along.** By the time a detail goes from the doctor to your parent to you to your sister, it may not mean what it originally meant.
+Information changes as it's passed along. By the time a detail goes from the doctor to your parent to you to your sister, it may not mean what it originally meant.
 
-**Nobody knows whose job the follow-up is.** Does the doctor's office schedule the referral, or does your parent? Will someone call with the test results, or do you have to call? When it's unclear, it often doesn't happen.
+Nobody knows whose job the follow-up is. Does the doctor's office schedule the referral, or does your parent? Will someone call with the test results, or do you have to call? When it's unclear, it often doesn't happen.
 
 ## What your role is, and isn't
 
@@ -63,57 +63,57 @@ Even with permission, your parent is entitled to privacy within it. If they want
 
 A little preparation changes the whole visit.
 
-**Know what the appointment is for.** Which doctor? What do they treat? Is this a routine check, a follow-up on something specific, a test, or a first visit with a new specialist? If you don't know, ask your parent, or look at the appointment reminder.
+Know what the appointment is for. Which doctor? What do they treat? Is this a routine check, a follow-up on something specific, a test, or a first visit with a new specialist? If you don't know, ask your parent, or look at the appointment reminder.
 
-**Ask your parent what they want out of it.** "What's the main thing you want to talk about?" Their priorities come first. Sometimes the thing you're most worried about isn't the thing that's bothering them most, and both deserve time.
+Ask your parent what they want out of it. "What's the main thing you want to talk about?" Their priorities come first. Sometimes the thing you're most worried about isn't the thing that's bothering them most, and both deserve time.
 
-**Gather what's changed since the last visit.** New symptoms, medication changes from another doctor, a fall, a hospital stay, changes in appetite, sleep, or mood. The observations you've been keeping since Chapter 1 are exactly what's useful here. Keep it brief and factual.
+Gather what's changed since the last visit. New symptoms, medication changes from another doctor, a fall, a hospital stay, changes in appetite, sleep, or mood. The observations you've been keeping since Chapter 1 are exactly what's useful here. Keep it brief and factual.
 
-**Write a short list of questions, most important first.** Three is a good number. A list of fifteen won't get covered, and the most important question may end up last. If there are more, bring them, but put them in order.
+Write a short list of questions, most important first. Three is a good number. A list of fifteen won't get covered, and the most important question may end up last. If there are more, bring them, but put them in order.
 
-**Pack the basics.** NIA suggests bringing insurance cards, medication lists, and your parent's glasses or hearing aids.¹ If your parent has a list of current medications, bring it. If not, the bottles themselves work.
+Pack the basics. NIA suggests bringing insurance cards, medication lists, and your parent's glasses or hearing aids.¹ If your parent has a list of current medications, bring it. If not, the bottles themselves work.
 
-**Sort out the logistics.** Who's driving, where to park, how long it might take, whether your parent needs to fast or bring anything. If there are forms or test results from another provider, ask the office whether they need copies.
+Sort out the logistics. Who's driving, where to park, how long it might take, whether your parent needs to fast or bring anything. If there are forms or test results from another provider, ask the office whether they need copies.
 
 ## During the appointment
 
-**Let your parent lead.** NIA advises caregivers to let the older adult answer the doctor's questions unless they've been asked to step in, and to always include the person in the conversation instead of talking with the doctor around them.¹ If your parent forgets something important, you can add it gently: "Mom, do you want to mention the dizziness?"
+Let your parent lead. NIA advises caregivers to let the older adult answer the doctor's questions unless they've been asked to step in, and to always include the person in the conversation instead of talking with the doctor around them.¹ If your parent forgets something important, you can add it gently: "Mom, do you want to mention the dizziness?"
 
-**Start with the most important question.** Visits can run short. Don't save the big one for the end.
+Start with the most important question. Visits can run short. Don't save the big one for the end.
 
-**Take notes.** Writing things down helps both of you remember what was said.¹ Write down the exact names of any new medications or tests, any changes to doses, and anything your parent is supposed to do or watch for.
+Take notes. Writing things down helps both of you remember what was said.¹ Write down the exact names of any new medications or tests, any changes to doses, and anything your parent is supposed to do or watch for.
 
-**Ask if you don't understand.** The Agency for Healthcare Research and Quality encourages patients to ask questions until they understand what the doctor is telling them, and to ask for written instructions.³ "Could you say that another way?" is a perfectly reasonable question. So is "Could you write that down?"
+Ask if you don't understand. The Agency for Healthcare Research and Quality encourages patients to ask questions until they understand what the doctor is telling them, and to ask for written instructions.³ "Could you say that another way?" is a perfectly reasonable question. So is "Could you write that down?"
 
-**Repeat it back.** Before the visit ends, summarize the plan in your own words: "So the new pill starts tomorrow, she gets blood drawn in two weeks, and we should call if the swelling gets worse. Is that right?" If you've got it wrong, now is the time to find out.
+Repeat it back. Before the visit ends, summarize the plan in your own words: "So the new pill starts tomorrow, she gets blood drawn in two weeks, and we should call if the swelling gets worse. Is that right?" If you've got it wrong, now is the time to find out.
 
-**Ask what happens next.** Many follow-up problems come from unanswered logistics. Who will schedule the referral? When and how will test results come? Who should you call with questions, and at what number?
+Ask what happens next. Many follow-up problems come from unanswered logistics. Who will schedule the referral? When and how will test results come? Who should you call with questions, and at what number?
 
-**Ask before recording.** Some people find it helpful to record a visit. If you want to, ask your parent and the doctor first.
+Ask before recording. Some people find it helpful to record a visit. If you want to, ask your parent and the doctor first.
 
 ## Writing down what happened
 
 Notes are most useful when they're written soon after the appointment, before the details blur. A few habits make them more reliable:
 
-- **Separate what the doctor said from your understanding of it.** "Dr. Chen said to cut the water pill to once a day" is different from "I think she wants to reduce the fluid pills." If you're not sure which you heard, mark it as a question.
-- **Copy medication names and doses exactly.** From the after-visit summary, the prescription label, or what the doctor wrote down, not from memory.
-- **Capture every action item.** New prescriptions, stopped medications, tests ordered, referrals, the next appointment, and anything your parent should watch for, with who's responsible for each.
-- **Keep the after-visit summary.** Many offices give one at checkout or post it to the patient portal. It's often the most accurate record of what was decided.
-- **Write down what's still unclear.** It's much easier to call back about a specific question than a vague feeling that something got missed.
+- Separate what the doctor said from your understanding of it. "Dr. Chen said to cut the water pill to once a day" is different from "I think she wants to reduce the fluid pills." If you're not sure which you heard, mark it as a question.
+- Copy medication names and doses exactly. From the after-visit summary, the prescription label, or what the doctor wrote down, not from memory.
+- Capture every action item. New prescriptions, stopped medications, tests ordered, referrals, the next appointment, and anything your parent should watch for, with who's responsible for each.
+- Keep the after-visit summary. Many offices give one at checkout or post it to the patient portal. It's often the most accurate record of what was decided.
+- Write down what's still unclear. It's much easier to call back about a specific question than a vague feeling that something got missed.
 
 ## When the instructions don't make sense
 
 You get home, read through the papers, and something doesn't add up. The dose on the bottle doesn't match what the doctor said. The cardiologist and the primary care doctor seem to have given different instructions. Nobody explained what the new test is for.
 
-**Call and ask.** AHRQ advises calling the doctor if you don't understand the instructions once you get home, or if there are problems following them.³ This is a normal, expected call. Offices get them all the time.
+Call and ask. AHRQ advises calling the doctor if you don't understand the instructions once you get home, or if there are problems following them.³ This is a normal, expected call. Offices get them all the time.
 
-**Be specific.** "I'm calling for my mother, [name and date of birth]. She saw Dr. Chen on Tuesday. The after-visit summary says to take the water pill once a day, but the bottle says twice. Which one should she follow?" A specific question gets a specific answer.
+Be specific. "I'm calling for my mother, [name and date of birth]. She saw Dr. Chen on Tuesday. The after-visit summary says to take the water pill once a day, but the bottle says twice. Which one should she follow?" A specific question gets a specific answer.
 
-**Ask the pharmacist about medication instructions.** Pharmacists can often clear up confusion about doses, timing, labels, or how a new medicine fits with the others.
+Ask the pharmacist about medication instructions. Pharmacists can often clear up confusion about doses, timing, labels, or how a new medicine fits with the others.
 
-**If two providers seem to disagree, tell both.** Don't try to pick the right instruction yourself. Let each office know what the other said and ask them to sort it out. That's their job, and they're the ones with the medical training to do it.
+If two providers seem to disagree, tell both. Don't try to pick the right instruction yourself. Let each office know what the other said and ask them to sort it out. That's their job, and they're the ones with the medical training to do it.
 
-**Don't change anything on your own in the meantime.** AHRQ advises talking with the doctor or pharmacist before stopping any prescribed medicine.³ If you're worried about a symptom while you wait for an answer, Chapter 2 helps you decide how fast to act.
+Don't change anything on your own in the meantime. AHRQ advises talking with the doctor or pharmacist before stopping any prescribed medicine.³ If you're worried about a symptom while you wait for an answer, Chapter 2 helps you decide how fast to act.
 
 ## Who to call with which question
 
@@ -137,11 +137,11 @@ If you're not sure, call the office that's most closely connected to the questio
 
 You don't need elaborate software. A few simple habits go a long way:
 
-- **One calendar.** Keep all of your parent's appointments in one place, whether that's a paper calendar on their fridge or a shared calendar the family can see, if your parent is comfortable with that.
-- **One contact list.** Every provider, what they treat, and how to reach them. If you filled in the Seven-Area Assessment in Chapter 3, you've already started this.
-- **One running list of open questions.** Anything that's waiting on an answer, a result, or a callback. Cross things off as they're resolved.
-- **One note-taker per appointment.** Decide ahead of time who's responsible for the notes and for sending the update afterward.
-- **One short update afterward.** Send it to the people who need it, with your parent's okay: "Mom saw Dr. Chen Tuesday. Water pill changed to once a day starting Wednesday. Blood work in two weeks (I'll schedule it). Call if swelling gets worse. Next visit in three months."
+- One calendar. Keep all of your parent's appointments in one place, whether that's a paper calendar on their fridge or a shared calendar the family can see, if your parent is comfortable with that.
+- One contact list. Every provider, what they treat, and how to reach them. If you filled in the Seven-Area Assessment in Chapter 3, you've already started this.
+- One running list of open questions. Anything that's waiting on an answer, a result, or a callback. Cross things off as they're resolved.
+- One note-taker per appointment. Decide ahead of time who's responsible for the notes and for sending the update afterward.
+- One short update afterward. Send it to the people who need it, with your parent's okay: "Mom saw Dr. Chen Tuesday. Water pill changed to once a day starting Wednesday. Blood work in two weeks (I'll schedule it). Call if swelling gets worse. Next visit in three months."
 
 A later book in this series, *Keeping Track of Everything*, goes much further into building a full system for managing healthcare information. For now, these few habits are enough to stop the most common problems.
 

@@ -71,11 +71,11 @@ The specific versions share a few things. They say what happened rather than wha
 
 A few practical suggestions for keeping track:
 
-- **Write it down soon.** Memory blurs fast, especially when you're worried. A note on your phone in the driveway after a visit is better than a reconstruction three weeks later.
-- **Record what's going well, too.** If your mother forgot an appointment but is still managing her medications perfectly, both facts matter. A record that only lists problems gives a distorted picture.
-- **Note frequency.** Once is an incident. Three times in a month is a pattern.
-- **Ask others what they've seen, without leading them.** A sibling, a neighbor, a friend from church. "Have you noticed anything different with Mom lately?" gets a more honest answer than "Don't you think Mom's slipping?"
-- **Keep it respectful.** You're writing this to help your parent, and there's a good chance you'll share it with them or their doctor. Write it the way you'd be comfortable having them read it.
+- Write it down soon. Memory blurs fast, especially when you're worried. A note on your phone in the driveway after a visit is better than a reconstruction three weeks later.
+- Record what's going well, too. If your mother forgot an appointment but is still managing her medications perfectly, both facts matter. A record that only lists problems gives a distorted picture.
+- Note frequency. Once is an incident. Three times in a month is a pattern.
+- Ask others what they've seen, without leading them. A sibling, a neighbor, a friend from church. "Have you noticed anything different with Mom lately?" gets a more honest answer than "Don't you think Mom's slipping?"
+- Keep it respectful. You're writing this to help your parent, and there's a good chance you'll share it with them or their doctor. Write it the way you'd be comfortable having them read it.
 
 That last point deserves a moment. There's a difference between paying attention and keeping a secret file. If you find yourself checking bank statements without permission or quizzing the neighbors behind your parent's back, step back. The goal is to understand the situation well enough to have a good conversation with your parent, not to build a case against them.
 

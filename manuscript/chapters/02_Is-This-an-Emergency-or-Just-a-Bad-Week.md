@@ -22,9 +22,9 @@ You don't need to figure out what's causing a change. You need to recognize the 
 
 Before you reach for a color, ask yourself three things:
 
-1. **Is this sudden?** Did it start in the last few hours or days, or has it been building for months?
-2. **Could it cause serious harm in the next few hours?** Not "is it bad," but "could waiting make it much worse?"
-3. **Is it different from my parent's normal?** A slow walker who's walking slowly is one thing. A brisk walker who suddenly can't stand is another.
+1. Is this sudden? Did it start in the last few hours or days, or has it been building for months?
+2. Could it cause serious harm in the next few hours? Not "is it bad," but "could waiting make it much worse?"
+3. Is it different from my parent's normal? A slow walker who's walking slowly is one thing. A brisk walker who suddenly can't stand is another.
 
 Sudden, potentially serious, and different from normal points toward red. Gradual, stable, and familiar points toward green. Most things land somewhere in between, which is what yellow is for.
 

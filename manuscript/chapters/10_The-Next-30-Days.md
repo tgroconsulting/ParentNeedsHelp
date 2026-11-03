@@ -30,10 +30,10 @@ Don't worry if some of these are half-finished or missing. A plan built from wha
 
 Before you go further, ask yourself four questions and write a sentence or two for each:
 
-1. **What's actually going on?** In plain words, what's your parent's situation right now?
-2. **What does my parent want?** What have they said matters most to them?
-3. **What's working?** What support is already in place and doing its job?
-4. **What isn't?** Where are the gaps, the strain, or the things nobody's handling?
+1. What's actually going on? In plain words, what's your parent's situation right now?
+2. What does my parent want? What have they said matters most to them?
+3. What's working? What support is already in place and doing its job?
+4. What isn't? Where are the gaps, the strain, or the things nobody's handling?
 
 Those four answers are the foundation for everything that follows.
 
@@ -43,11 +43,11 @@ The most common mistake at this stage is trying to fix everything. A plan with t
 
 A few questions help you choose:
 
-- **Could this cause serious harm soon if it's left alone?**
-- **Would it be hard to undo if it goes wrong?**
-- **Is there a real deadline,** such as a follow-up appointment that needs booking, a restriction that's ending, or a waiting list to get onto?
-- **Is it what your parent cares about most?** Their priorities belong on this list, not only yours.
-- **Will solving it make other things easier?** Sometimes one change, like reliable transportation or a clear medication list, unlocks several others.
+- Could this cause serious harm soon if it's left alone?
+- Would it be hard to undo if it goes wrong?
+- Is there a real deadline, such as a follow-up appointment that needs booking, a restriction that's ending, or a waiting list to get onto?
+- Is it what your parent cares about most? Their priorities belong on this list, not only yours.
+- Will solving it make other things easier? Sometimes one change, like reliable transportation or a clear medication list, unlocks several others.
 
 Everything else still matters. It just goes on the list for later, which is where it belongs for now. Writing it down and deliberately setting it aside is different from forgetting it.
 
@@ -55,11 +55,11 @@ Everything else still matters. It just goes on the list for later, which is wher
 
 Once you have your priorities, the rest of what you've collected can be sorted into rough time frames:
 
-- **Now.** Anything urgent. If something on your list is a red-flag concern from Chapter 2, it doesn't belong on a 30-day schedule at all. It gets handled today. Yellow items get a call today or tomorrow.
-- **This week.** Calls to make, appointments to book, one conversation to start.
-- **The next two weeks.** Follow-ups, a trial of one support service, gathering a few more pieces of information.
-- **By the end of the month.** Things that take a little longer: a family call, a fuller update of the organizer, checking how a new arrangement is working.
-- **Later.** Important things that don't need to happen this month. Keep them on the list so they don't get lost.
+- Now. Anything urgent. If something on your list is a red-flag concern from Chapter 2, it doesn't belong on a 30-day schedule at all. It gets handled today. Yellow items get a call today or tomorrow.
+- This week. Calls to make, appointments to book, one conversation to start.
+- The next two weeks. Follow-ups, a trial of one support service, gathering a few more pieces of information.
+- By the end of the month. Things that take a little longer: a family call, a fuller update of the organizer, checking how a new arrangement is working.
+- Later. Important things that don't need to happen this month. Keep them on the list so they don't get lost.
 
 These time frames are a guide, not a set of deadlines. Real life won't follow them neatly. A service you call may have a three-week waiting list. Your parent may want more time to think about something. A new problem may jump to the front of the line. When that happens, move things around. The point of the time frames is to keep everything from feeling equally urgent, not to create new pressure.
 

@@ -24,13 +24,13 @@ Naming who's doing what isn't about assigning blame. It's about making the arran
 
 A fair division of responsibilities rarely means an equal one. People's circumstances are genuinely different:
 
-- **Proximity.** Someone who lives fifteen minutes away can handle a last-minute ride to the doctor. Someone across the country can't, but may be able to spend an hour on the phone with an insurance company.
-- **Work schedules.** A nurse on night shifts, a teacher with summers off, and a salesperson who travels have very different windows of availability.
-- **Other responsibilities.** Young children, a spouse's health, their own health problems, other family members who need care.
-- **Relationships.** Some adult children are very close to a parent. Others have a more complicated history. That affects what kind of help each can offer and what kind the parent will accept from them.
-- **Skills.** One person is good on the phone, another with spreadsheets, another with tools, another at keeping everyone calm.
-- **Resources.** Time, flexibility, and sometimes money vary a great deal between siblings. (How families handle money for a parent's care is a larger subject this book doesn't take on.)
-- **Your parent's preferences.** Your parent may want one child at medical appointments and another helping with the house. That counts.
+- Proximity. Someone who lives fifteen minutes away can handle a last-minute ride to the doctor. Someone across the country can't, but may be able to spend an hour on the phone with an insurance company.
+- Work schedules. A nurse on night shifts, a teacher with summers off, and a salesperson who travels have very different windows of availability.
+- Other responsibilities. Young children, a spouse's health, their own health problems, other family members who need care.
+- Relationships. Some adult children are very close to a parent. Others have a more complicated history. That affects what kind of help each can offer and what kind the parent will accept from them.
+- Skills. One person is good on the phone, another with spreadsheets, another with tools, another at keeping everyone calm.
+- Resources. Time, flexibility, and sometimes money vary a great deal between siblings. (How families handle money for a parent's care is a larger subject this book doesn't take on.)
+- Your parent's preferences. Your parent may want one child at medical appointments and another helping with the house. That counts.
 
 The National Institute on Aging suggests that, ideally, each person take on the tasks best suited to their skills and interests, and notes that family members who live far away can still offer emotional support, coordinate some aspects of care from a distance, and help the main caregiver take breaks.¹
 
@@ -40,11 +40,11 @@ Different isn't the same as uneven. The goal is to make sure everyone who's able
 
 One reason family discussions go in circles is that everyone feels entitled to a vote. It helps to separate three different things.
 
-**Information to share.** What the doctor said, what changed this week, what's coming up. Everyone who's actively involved generally benefits from knowing, within the limits of what your parent is comfortable sharing.
+Information to share. What the doctor said, what changed this week, what's coming up. Everyone who's actively involved generally benefits from knowing, within the limits of what your parent is comfortable sharing.
 
-**Options to discuss.** Whether to try grocery delivery, how to cover rides to physical therapy, whether to look into a home safety evaluation. These benefit from more than one perspective.
+Options to discuss. Whether to try grocery delivery, how to cover rides to physical therapy, whether to look into a home safety evaluation. These benefit from more than one perspective.
 
-**Decisions that belong to your parent.** Where to live, what medical care to accept, how to spend their money, who they want involved. As long as your parent is able to make their own decisions, these are theirs, even when the family disagrees. The family's job is to make sure they have good information and support, not to decide for them.
+Decisions that belong to your parent. Where to live, what medical care to accept, how to spend their money, who they want involved. As long as your parent is able to make their own decisions, these are theirs, even when the family disagrees. The family's job is to make sure they have good information and support, not to decide for them.
 
 There are situations where someone else has legal authority to make certain decisions, such as under a power of attorney or a guardianship. Who has what authority, and when, is a legal question that depends on the documents and your state's law, and it's outside what this book covers. The point here is simpler: being informed about your parent's situation doesn't give anyone a vote over it, and doing more of the work doesn't either.
 
@@ -56,21 +56,21 @@ A group text is good for updates. It's not good for figuring out who will do wha
 
 The National Institute on Aging suggests starting with a conversation that includes the older person and everyone who will be involved in their care, and holding it when there's no emergency so it can be a calm discussion.¹ A few things make that conversation more productive.
 
-**Decide what it's for.** One or two questions, not everything at once. "How do we cover appointments and rides for the next two months?" is a good meeting. "What are we going to do about Mom?" is not.
+Decide what it's for. One or two questions, not everything at once. "How do we cover appointments and rides for the next two months?" is a good meeting. "What are we going to do about Mom?" is not.
 
-**Include your parent.** It's their life. Some parents want to be part of the whole conversation, some want to weigh in on part of it, and some would rather their children work out logistics and bring them a proposal. Ask them. At minimum, start from what they've said they want.
+Include your parent. It's their life. Some parents want to be part of the whole conversation, some want to weigh in on part of it, and some would rather their children work out logistics and bring them a proposal. Ask them. At minimum, start from what they've said they want.
 
-**Share the facts ahead of time.** If you filled in the Current Situation Snapshot from Chapter 4, send it a few days before. People who've had time to read the same information argue less about what's true.
+Share the facts ahead of time. If you filled in the Current Situation Snapshot from Chapter 4, send it a few days before. People who've had time to read the same information argue less about what's true.
 
-**Start with what's working.** It acknowledges the work that's already being done and sets a less defensive tone.
+Start with what's working. It acknowledges the work that's already being done and sets a less defensive tone.
 
-**Keep to facts before opinions.** When someone says "She can't manage anymore," it's fair to ask, "What have you seen?" Chapter 4's distinction between what someone saw, heard, concluded, and fears is useful here.
+Keep to facts before opinions. When someone says "She can't manage anymore," it's fair to ask, "What have you seen?" Chapter 4's distinction between what someone saw, heard, concluded, and fears is useful here.
 
-**Leave with specifics.** Every task discussed should end with a name and a date. "Somebody should look into rides" means nobody will. "Jordan will call the Area Agency on Aging about volunteer drivers by Friday" means someone will.
+Leave with specifics. Every task discussed should end with a name and a date. "Somebody should look into rides" means nobody will. "Jordan will call the Area Agency on Aging about volunteer drivers by Friday" means someone will.
 
-**Keep it short.** An hour is usually plenty. People who live far away can join by video.
+Keep it short. An hour is usually plenty. People who live far away can join by video.
 
-**Write it down and send it.** A short summary afterward of what was agreed, who's doing what, and when you'll check in again prevents a lot of "I thought you said."
+Write it down and send it. A short summary afterward of what was agreed, who's doing what, and when you'll check in again prevents a lot of "I thought you said."
 
 A few ground rules can help, especially in families where conversations tend to heat up: one person talks at a time, stick to the topic, talk about tasks rather than people's character, and leave old grievances for another day.
 
@@ -96,37 +96,37 @@ The last role deserves emphasis. If one person is doing most of the hands-on wor
 
 Once roles are clearer, a light routine keeps everyone informed without burying them in messages.
 
-**One place for updates.** Pick a single channel for routine news: a weekly email, a shared document, or a group text used only for updates rather than debate. Keep the organizer from Chapter 7 somewhere everyone involved can find it.
+One place for updates. Pick a single channel for routine news: a weekly email, a shared document, or a group text used only for updates rather than debate. Keep the organizer from Chapter 7 somewhere everyone involved can find it.
 
-**A predictable rhythm.** A short weekly update from one person, plus a family call every month or so, is enough for many families. More often if things are changing quickly. Less often if they're stable.
+A predictable rhythm. A short weekly update from one person, plus a family call every month or so, is enough for many families. More often if things are changing quickly. Less often if they're stable.
 
-**A different path for urgent news.** Agree that anything urgent gets a phone call, not a text, and agree on the order: who gets called first, who calls the rest.
+A different path for urgent news. Agree that anything urgent gets a phone call, not a text, and agree on the order: who gets called first, who calls the rest.
 
-**A simple update format.** For example:
+A simple update format. For example:
 
 > **Mom, week of Nov. 3:** Good week overall. Saw Dr. Patel Tuesday; no changes. PT twice, going well. Jordan drove both times. Coming up: blood work Nov. 12 (Sam taking her). Open question: still waiting on the walker. Next family call: Nov. 20.
 
-**Respect your parent's privacy.** Your parent may be comfortable with some family members knowing some things and not others. Ask what they're comfortable having shared, and with whom. An update can be useful without including every medical detail.
+Respect your parent's privacy. Your parent may be comfortable with some family members knowing some things and not others. Ask what they're comfortable having shared, and with whom. An update can be useful without including every medical detail.
 
-**Don't let the channel replace the conversation.** If something needs discussing, discuss it on a call, not in a thread of forty messages.
+Don't let the channel replace the conversation. If something needs discussing, discuss it on a call, not in a thread of forty messages.
 
 ## When the family disagrees
 
 Families will disagree. That's normal, and it doesn't mean anyone is wrong or doesn't care. Chapter 4 explained some of the reasons: people see different slices of the parent's life, have different thresholds for worry, and have different stakes in the outcome. A few approaches help keep disagreement useful rather than damaging.
 
-**Go back to the facts.** Many disagreements shrink once everyone is looking at the same observations. "I saw it" and "I'm worried it might happen" are both worth hearing, but they're not the same thing.
+Go back to the facts. Many disagreements shrink once everyone is looking at the same observations. "I saw it" and "I'm worried it might happen" are both worth hearing, but they're not the same thing.
 
-**Name the actual question.** Siblings often argue past each other because one is talking about this month and another about next year. "Are we deciding about rides for the next six weeks, or about whether Mom should move?" can end a lot of confusion.
+Name the actual question. Siblings often argue past each other because one is talking about this month and another about next year. "Are we deciding about rides for the next six weeks, or about whether Mom should move?" can end a lot of confusion.
 
-**Come back to your parent's preferences.** What does your parent want? That often settles more than any argument between siblings.
+Come back to your parent's preferences. What does your parent want? That often settles more than any argument between siblings.
 
-**Separate now from later.** You may not agree on the long term. You may still be able to agree on the next step.
+Separate now from later. You may not agree on the long term. You may still be able to agree on the next step.
 
-**Try something for a set time.** "Let's try the volunteer drivers for a month and see" is easier to agree on than a permanent solution.
+Try something for a set time. "Let's try the volunteer drivers for a month and see" is easier to agree on than a permanent solution.
 
-**Bring in outside information.** If the disagreement is about something a professional can speak to, such as how your parent is managing at home or what kind of help makes sense, ask. A doctor, therapist, or geriatric care manager (Chapter 4) can sometimes offer a view that everyone can accept.
+Bring in outside information. If the disagreement is about something a professional can speak to, such as how your parent is managing at home or what kind of help makes sense, ask. A doctor, therapist, or geriatric care manager (Chapter 4) can sometimes offer a view that everyone can accept.
 
-**Don't assume the roles predict who's right.** The sibling who does the most hands-on care sees more, but may also be exhausted and see things through that exhaustion. The sibling who lives far away may notice changes the local one has gotten used to, or may be underestimating how much day-to-day work there is. Each perspective is partial. Each deserves to be heard.
+Don't assume the roles predict who's right. The sibling who does the most hands-on care sees more, but may also be exhausted and see things through that exhaustion. The sibling who lives far away may notice changes the local one has gotten used to, or may be underestimating how much day-to-day work there is. Each perspective is partial. Each deserves to be heard.
 
 Some families have long histories that make these conversations harder than any technique can fix. If talking keeps breaking down, outside help such as a counselor, a mediator, or a geriatric care manager may be worth considering. Deeper family dynamics and uneven caregiving get a full book of their own later in this series, *Why Am I the Only One Helping?*
 

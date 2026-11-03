@@ -12,9 +12,9 @@ Generic advice to "get organized" fails in a few predictable ways. It doesn't sa
 
 It helps to know that you're building two things.
 
-The first is **a picture**. That means the basic facts (names, phone numbers, documents, appointments) plus a realistic sense of how your parent is doing day to day. Professionals need both. "Dad's on a lot of pills" isn't much to work with. "Dad takes nine medications from two pharmacies, and two of them changed when he left the hospital" is.
+The first is a picture. That means the basic facts (names, phone numbers, documents, appointments) plus a realistic sense of how your parent is doing day to day. Professionals need both. "Dad's on a lot of pills" isn't much to work with. "Dad takes nine medications from two pharmacies, and two of them changed when he left the hospital" is.
 
-The second is **a ranking**. You won't sort out seven areas of someone's life in a month, and you don't need to. You need to know which few gaps could cause the most trouble soonest, so you can deal with those first and let the rest wait.
+The second is a ranking. You won't sort out seven areas of someone's life in a month, and you don't need to. You need to know which few gaps could cause the most trouble soonest, so you can deal with those first and let the rest wait.
 
 A note on tone before we start. None of this is meant to become a medical chart. You don't need medical vocabulary, and you don't need to understand every diagnosis. Write things down the way you'd explain them to a friend, and copy exact names and numbers straight off the paperwork. If your notes would make sense to a sibling reading them at a hospital desk, they're doing their job.
 
@@ -89,9 +89,9 @@ Most of the seven areas depend on paperwork, and the paperwork is usually scatte
 - Insurance cards (front and back) for every plan
 - A current medication list, or the bottles themselves
 - Doctor and specialist names and numbers
-- **Hospital discharge papers** from any recent stay
-- **Treatment or therapy schedules** (rehab, dialysis, infusions, wound care, physical therapy)
-- **Rehabilitation or home-exercise instructions** from a physical or occupational therapist
+- Hospital discharge papers from any recent stay
+- Treatment or therapy schedules (rehab, dialysis, infusions, wound care, physical therapy)
+- Rehabilitation or home-exercise instructions from a physical or occupational therapist
 - Recent visit summaries or test results your parent has been given
 - Contact information for any home health agency or equipment supplier
 - Health care and financial powers of attorney, living will, and will
@@ -105,17 +105,17 @@ The National Institute on Aging publishes a free checklist of personal, financia
 
 It's easy, once you start, to slide from helping your parent get organized into running their life for them. Most parents will notice that shift right away, and it can shut the whole effort down. A few approaches tend to work better:
 
-**Ask where, not what.** "Where do you keep your insurance cards?" is easier to answer than "What insurance do you have?" It also keeps your parent in charge of their own things.
+Ask where, not what. "Where do you keep your insurance cards?" is easier to answer than "What insurance do you have?" It also keeps your parent in charge of their own things.
 
-**Borrow a reason.** "I'm updating my own paperwork and realized I don't know where yours is" lands very differently from "We need to talk about your documents."
+Borrow a reason. "I'm updating my own paperwork and realized I don't know where yours is" lands very differently from "We need to talk about your documents."
 
-**Look, don't search.** Notice what's in plain sight (the mail pile, the pill bottles on the counter, the walker in the corner, the discharge folder on the table) and write it down later. Going through drawers without permission is a different thing, and it costs trust you'll need later.
+Look, don't search. Notice what's in plain sight (the mail pile, the pill bottles on the counter, the walker in the corner, the discharge folder on the table) and write it down later. Going through drawers without permission is a different thing, and it costs trust you'll need later.
 
-**One or two questions per visit.** Small asks feel like help. A list of twenty feels like an audit.
+One or two questions per visit. Small asks feel like help. A list of twenty feels like an audit.
 
-**Ask to come along.** Offering to drive to an appointment, and asking if you can sit in, is often the easiest way to learn who the doctors are and what they've said.
+Ask to come along. Offering to drive to an appointment, and asking if you can sit in, is often the easiest way to learn who the doctors are and what they've said.
 
-**Respect "not yet."** If your parent doesn't want to share something, that's their right. You can come back to it.
+Respect "not yet." If your parent doesn't want to share something, that's their right. You can come back to it.
 
 ### Talking with your parent's doctors
 
@@ -147,9 +147,9 @@ Grace still runs her own life. Ben and Nora just know a lot more about it than t
 
 Once you've worked through the seven areas, even partially, rate each one:
 
-- **Fine for now:** nothing urgent, check again in a few months.
-- **Needs a plan this month:** a real gap, but not dangerous in the next few weeks.
-- **Act within weeks:** a gap that could cause harm soon or that will be hard to fix later.
+- Fine for now: nothing urgent, check again in a few months.
+- Needs a plan this month: a real gap, but not dangerous in the next few weeks.
+- Act within weeks: a gap that could cause harm soon or that will be hard to fix later.
 
 Then pick no more than three to focus on. Three questions help: Could this cause serious harm soon? Will it be hard to undo if it goes wrong? Is there a deadline, such as a restriction that ends, a follow-up appointment that hasn't been booked, or legal documents that need to be signed while your parent can still take part? Those three become the core of your first-month plan. Everything else gets written down and waits its turn.
 
@@ -169,11 +169,11 @@ Then pick no more than three to focus on. Three questions help: Could this cause
 
 ## When to bring in professional help
 
-- **Your parent's primary care doctor.** A good place to bring the overall picture. If your parent has Medicare Part B, the yearly "wellness" visit is designed for building a prevention plan and includes a check for signs of cognitive problems. Medicare covers it once every 12 months, and your parent pays nothing if the provider accepts assignment, although other tests or services during the same visit may cost extra. It isn't a routine physical exam.⁴
-- **A pharmacist.** Ask for a review of every medication and supplement, especially after a hospital stay or any recent change.
-- **The discharge planner, therapist, or home health agency.** If your parent was recently discharged, these are the people to call with questions about instructions, equipment, or therapy schedules.
-- **An elder law attorney.** If legal documents are missing or out of date, especially if there are any concerns about memory, sooner is better. Laws vary by state.
-- **Your parent's bank or brokerage firm.** Your parent can name a "trusted contact," someone the firm can reach if it can't get in touch with your parent or suspects financial exploitation. According to FINRA, a trusted contact at a brokerage firm has no authority to make decisions or transactions on the account.⁵ Banks may have their own versions; ask what they offer.
+- Your parent's primary care doctor. A good place to bring the overall picture. If your parent has Medicare Part B, the yearly "wellness" visit is designed for building a prevention plan and includes a check for signs of cognitive problems. Medicare covers it once every 12 months, and your parent pays nothing if the provider accepts assignment, although other tests or services during the same visit may cost extra. It isn't a routine physical exam.⁴
+- A pharmacist. Ask for a review of every medication and supplement, especially after a hospital stay or any recent change.
+- The discharge planner, therapist, or home health agency. If your parent was recently discharged, these are the people to call with questions about instructions, equipment, or therapy schedules.
+- An elder law attorney. If legal documents are missing or out of date, especially if there are any concerns about memory, sooner is better. Laws vary by state.
+- Your parent's bank or brokerage firm. Your parent can name a "trusted contact," someone the firm can reach if it can't get in touch with your parent or suspects financial exploitation. According to FINRA, a trusted contact at a brokerage firm has no authority to make decisions or transactions on the account.⁵ Banks may have their own versions; ask what they offer.
 
 ## Tool: Seven-Area Aging Parent Assessment
 

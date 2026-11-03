@@ -14,15 +14,15 @@ The problem usually isn't that someone is lying or that someone doesn't care. It
 
 It's worth understanding why reasonable people who love the same parent can see the situation so differently. Once you know where the differences come from, they're easier to work with.
 
-**People see different slices of time.** The sister who has Sunday brunch with Dad sees him rested, showered, and on his best behavior at 11 a.m. The brother who drops by on a Wednesday evening sees him tired, with the TV on and dinner not started. Neither picture is false. They're just different hours of the same week.
+People see different slices of time. The sister who has Sunday brunch with Dad sees him rested, showered, and on his best behavior at 11 a.m. The brother who drops by on a Wednesday evening sees him tired, with the TV on and dinner not started. Neither picture is false. They're just different hours of the same week.
 
-**Parents behave differently with different people.** Many parents put on their best face for the child who lives far away or who worries the most, and relax around the one who's there all the time. Some parents lean on one child for help and hide their struggles from another. What you see depends partly on who you are to them.
+Parents behave differently with different people. Many parents put on their best face for the child who lives far away or who worries the most, and relax around the one who's there all the time. Some parents lean on one child for help and hide their struggles from another. What you see depends partly on who you are to them.
 
-**Distance changes what you notice.** The child who lives nearby sees changes gradually and gets used to them. The child who visits twice a year sees the jump all at once and may be alarmed by something the local sibling has stopped noticing. Each perspective catches something the other misses.
+Distance changes what you notice. The child who lives nearby sees changes gradually and gets used to them. The child who visits twice a year sees the jump all at once and may be alarmed by something the local sibling has stopped noticing. Each perspective catches something the other misses.
 
-**People have different thresholds.** Some people worry early and act fast. Others wait until something is clearly wrong. Neither temperament is a character flaw, but they lead to very different readings of the same facts.
+People have different thresholds. Some people worry early and act fast. Others wait until something is clearly wrong. Neither temperament is a character flaw, but they lead to very different readings of the same facts.
 
-**People have different stakes.** Whoever lives closest will likely do most of the hands-on help if things change. That can make one sibling quicker to see problems and another reluctant to, for reasons neither of them would say out loud.
+People have different stakes. Whoever lives closest will likely do most of the hands-on help if things change. That can make one sibling quicker to see problems and another reluctant to, for reasons neither of them would say out loud.
 
 And then there's your parent. Dad's view deserves real weight. He knows more about his own life than anyone, and his preferences matter whether or not you agree with them. At the same time, people of any age can minimize problems they'd rather not face, or simply not notice gradual changes in themselves. Listening to him seriously and recognizing that his view is also partial aren't in conflict.
 
@@ -77,19 +77,19 @@ You're not grading your parent in any of these areas, and none of this replaces 
 
 Much of what you need to know only your parent can tell you. How you ask makes a big difference in whether they do.
 
-**Ask about the routine, not the problem.** "Walk me through a normal Tuesday" gets you more than "Are you eating?" You'll hear when they get up, what they eat, where they go, who they talk to, and what they skip, without them feeling cornered.
+Ask about the routine, not the problem. "Walk me through a normal Tuesday" gets you more than "Are you eating?" You'll hear when they get up, what they eat, where they go, who they talk to, and what they skip, without them feeling cornered.
 
-**Ask what's working.** "What's been easy lately? What's been more of a hassle?" invites an honest answer about both, and it signals that you're not only looking for problems.
+Ask what's working. "What's been easy lately? What's been more of a hassle?" invites an honest answer about both, and it signals that you're not only looking for problems.
 
-**Ask for their view before you share yours.** "How do you think things are going?" Then actually listen. If you lead with your concerns, you'll get a defense. If you lead with a question, you may get information.
+Ask for their view before you share yours. "How do you think things are going?" Then actually listen. If you lead with your concerns, you'll get a defense. If you lead with a question, you may get information.
 
-**Talk while doing something together.** Conversations in the car, over dishes, or while weeding the garden often go better than conversations across a kitchen table. Side by side is easier than face to face for a lot of people.
+Talk while doing something together. Conversations in the car, over dishes, or while weeding the garden often go better than conversations across a kitchen table. Side by side is easier than face to face for a lot of people.
 
-**One subject at a time.** Driving this week, meals next week. A conversation that covers everything at once feels like an intervention.
+One subject at a time. Driving this week, meals next week. A conversation that covers everything at once feels like an intervention.
 
-**Don't quiz them.** Asking "What day is it?" or "Who's the president?" to see if they know is demeaning, and it isn't your job to test your parent's memory or thinking. If you're concerned about cognition, that's a conversation for them and their doctor.
+Don't quiz them. Asking "What day is it?" or "Who's the president?" to see if they know is demeaning, and it isn't your job to test your parent's memory or thinking. If you're concerned about cognition, that's a conversation for them and their doctor.
 
-**Accept that some answers will wait.** If your parent doesn't want to talk about something today, let it go and try another time, or another way. A conversation that ends calmly is one you can return to.
+Accept that some answers will wait. If your parent doesn't want to talk about something today, let it go and try another time, or another way. A conversation that ends calmly is one you can return to.
 
 ## Blind spots: distance, short visits, and missing pieces
 
@@ -101,36 +101,36 @@ If you live nearby, your blind spot is different. You may have adjusted to chang
 
 A few ways to fill in the gaps:
 
-- **Stay longer, or visit on an ordinary day.** A Tuesday tells you more than a holiday. A few days tells you more than a few hours.
-- **Vary when you call.** A call at 7 p.m. may sound different from one at 10 a.m.
-- **Use video when your parent is comfortable with it.** You'll pick up on things a voice doesn't carry.
-- **Compare notes with others who see your parent,** using the same six areas, so you're comparing like with like.
-- **Ask your parent who else they'd be comfortable with you checking in with,** such as a neighbor, a close friend, or someone from their place of worship. Ask first. Going around your parent to collect information from their friends can feel like surveillance, and it can damage trust and their relationships.
+- Stay longer, or visit on an ordinary day. A Tuesday tells you more than a holiday. A few days tells you more than a few hours.
+- Vary when you call. A call at 7 p.m. may sound different from one at 10 a.m.
+- Use video when your parent is comfortable with it. You'll pick up on things a voice doesn't carry.
+- Compare notes with others who see your parent, using the same six areas, so you're comparing like with like.
+- Ask your parent who else they'd be comfortable with you checking in with, such as a neighbor, a close friend, or someone from their place of worship. Ask first. Going around your parent to collect information from their friends can feel like surveillance, and it can damage trust and their relationships.
 
 ## Writing it down without overstepping
 
 By now you may have a fair amount of information about your parent. Some of it is sensitive. How you keep it and share it matters, both practically and for your relationship with your parent.
 
-**Separate fact from opinion on the page.** Write what was observed, with the date and who observed it. Keep your concerns and conclusions in a separate section, clearly marked as yours.
+Separate fact from opinion on the page. Write what was observed, with the date and who observed it. Keep your concerns and conclusions in a separate section, clearly marked as yours.
 
-**Write it as if your parent will read it.** There's a good chance they will, and they have every right to. Notes written with that in mind tend to be more accurate and more respectful.
+Write it as if your parent will read it. There's a good chance they will, and they have every right to. Notes written with that in mind tend to be more accurate and more respectful.
 
-**Share on a need-to-know basis.** Siblings who are actively helping probably need the full picture. Extended family, family friends, and social media generally don't. Your parent's health and finances are their private business, even when you're worried.
+Share on a need-to-know basis. Siblings who are actively helping probably need the full picture. Extended family, family friends, and social media generally don't. Your parent's health and finances are their private business, even when you're worried.
 
-**Be careful with group texts.** A message to five relatives about Dad's bladder trouble is hard to take back. Consider a single shared document that only the people directly involved can open, and that your parent knows about.
+Be careful with group texts. A message to five relatives about Dad's bladder trouble is hard to take back. Consider a single shared document that only the people directly involved can open, and that your parent knows about.
 
-**Include your parent's preferences, in their words.** "Dad wants to keep driving to church but is okay with someone else doing highway trips" belongs in the record just as much as any observation.
+Include your parent's preferences, in their words. "Dad wants to keep driving to church but is okay with someone else doing highway trips" belongs in the record just as much as any observation.
 
 ## What's still unknown, and who can help
 
 Once you've sorted what you know, the most useful part of the picture is often the list of what you don't. Write those questions down. Then, for each one, think about who could actually answer it.
 
-- **Your parent.** Start here for almost everything. Many unknowns are things nobody has simply asked.
-- **Your parent's doctor.** For questions about health, memory, or physical changes. Doctors don't always have to share information with family (Chapter 3 covers how that works), but you can always tell them what you've observed, and your parent can invite you to an appointment.
-- **A pharmacist.** For questions about whether medications might be connected to changes you're seeing.
-- **People who see your parent regularly,** with your parent's agreement: a neighbor, a friend, a home health aide, someone at their place of worship.
-- **Your local Area Agency on Aging.** For questions about what help exists in your parent's community. The Eldercare Locator, a public service of the federal Administration for Community Living, can connect you with local resources such as in-home help and transportation. You can reach it at 1-800-677-1116 or eldercare.acl.gov.¹
-- **A geriatric care manager** (also called an aging life care professional). When the picture is complicated, or family members can't agree, these professionals work with older adults and families to identify needs and make a care plan. According to the National Institute on Aging, they charge by the hour, the initial evaluation can be expensive, and Medicare and Medicaid don't pay for it; most private health insurance doesn't either, though long-term care insurance may cover some of the cost.²
+- Your parent. Start here for almost everything. Many unknowns are things nobody has simply asked.
+- Your parent's doctor. For questions about health, memory, or physical changes. Doctors don't always have to share information with family (Chapter 3 covers how that works), but you can always tell them what you've observed, and your parent can invite you to an appointment.
+- A pharmacist. For questions about whether medications might be connected to changes you're seeing.
+- People who see your parent regularly, with your parent's agreement: a neighbor, a friend, a home health aide, someone at their place of worship.
+- Your local Area Agency on Aging. For questions about what help exists in your parent's community. The Eldercare Locator, a public service of the federal Administration for Community Living, can connect you with local resources such as in-home help and transportation. You can reach it at 1-800-677-1116 or eldercare.acl.gov.¹
+- A geriatric care manager (also called an aging life care professional). When the picture is complicated, or family members can't agree, these professionals work with older adults and families to identify needs and make a care plan. According to the National Institute on Aging, they charge by the hour, the initial evaluation can be expensive, and Medicare and Medicaid don't pay for it; most private health insurance doesn't either, though long-term care insurance may cover some of the cost.²
 
 Some unknowns can only be answered by a professional evaluation, whether of your parent's health, thinking, or home safety. That's not something this chapter, or this book, can do. What you can do is know which questions need that kind of help and bring them to the right person.
 

@@ -26,11 +26,11 @@ Other things family can do, but only at a real cost: leaving work again, driving
 
 When you look at your list of tasks (the Family Coordination Worksheet from Chapter 8 is a good starting point), a few questions help sort them:
 
-- **Could we keep doing this for the next six months?** If the honest answer is no, it's worth looking for another way.
-- **Does it require skills or training we don't have?** If so, it belongs with someone who has them.
-- **What does my parent prefer?** Some parents would much rather have a hired helper with bathing than have their son do it. Others feel the opposite.
-- **What happens when the person doing it is sick, traveling, or burned out?** If the answer is "nobody does it," that task needs a backup, and the backup may be outside the family.
-- **Is anyone doing it at all?** Gaps, like the follow-up that never gets scheduled or the house that hasn't been cleaned in months, are often the first place outside help can make a difference.
+- Could we keep doing this for the next six months? If the honest answer is no, it's worth looking for another way.
+- Does it require skills or training we don't have? If so, it belongs with someone who has them.
+- What does my parent prefer? Some parents would much rather have a hired helper with bathing than have their son do it. Others feel the opposite.
+- What happens when the person doing it is sick, traveling, or burned out? If the answer is "nobody does it," that task needs a backup, and the backup may be outside the family.
+- Is anyone doing it at all? Gaps, like the follow-up that never gets scheduled or the house that hasn't been cleaned in months, are often the first place outside help can make a difference.
 
 Your parent's input matters throughout. Outside help in their home, their schedule, or their care is something they should agree to, and many are more open to it than their children expect, especially when it's framed as making it easier to keep living the way they want.
 
@@ -65,13 +65,13 @@ What's available depends heavily on where your parent lives. But most communitie
 
 The hardest part is often knowing which sources to trust. Start with these:
 
-- **Your parent's Area Agency on Aging,** through the Eldercare Locator at 1-800-677-1116 or eldercare.acl.gov.²
-- **211.** Dialing 211 connects you with a local information and referral service run by community organizations. According to 211.org, trained specialists are available around the clock, and calls are confidential.⁸
-- **Your parent's State Health Insurance Assistance Program** for Medicare questions, at shiphelp.org.⁷
-- **Your parent's doctor, hospital social worker, or discharge planner.** They often know local services and can make referrals, especially after a hospital stay.
-- **Medicare's Care Compare tool** at medicare.gov/care-compare, which lists Medicare-certified providers, including home health agencies, in a given area.⁹
-- **Your parent's faith community, senior center, or neighbors,** who often know about informal help and local programs.
-- **Your parent's state agency on aging,** which can tell you about state programs and, where they exist, licensing requirements for home care providers.
+- Your parent's Area Agency on Aging, through the Eldercare Locator at 1-800-677-1116 or eldercare.acl.gov.²
+- 211. Dialing 211 connects you with a local information and referral service run by community organizations. According to 211.org, trained specialists are available around the clock, and calls are confidential.⁸
+- Your parent's State Health Insurance Assistance Program for Medicare questions, at shiphelp.org.⁷
+- Your parent's doctor, hospital social worker, or discharge planner. They often know local services and can make referrals, especially after a hospital stay.
+- Medicare's Care Compare tool at medicare.gov/care-compare, which lists Medicare-certified providers, including home health agencies, in a given area.⁹
+- Your parent's faith community, senior center, or neighbors, who often know about informal help and local programs.
+- Your parent's state agency on aging, which can tell you about state programs and, where they exist, licensing requirements for home care providers.
 
 A word of caution about general internet searches. Some websites that offer to match families with care providers are businesses that may be paid by the providers they recommend. That doesn't make them bad, but it's worth asking any referral service how it's paid before relying on its suggestions.
 
@@ -112,11 +112,11 @@ This book can't tell you which programs exist near your parent, who qualifies, w
 
 So treat everything you find, including what's in this chapter, as a starting point to confirm:
 
-- **Ask directly, and ask about now.** "Is that still available?" "Is that the current price?" "What's the wait as of today?"
-- **Write down the date and who told you.** Information from six months ago may no longer be accurate.
-- **Get important details in writing,** especially cost, services included, and cancellation terms.
-- **Check credentials yourself** where it matters, such as confirming a home health agency is Medicare-certified or a home care agency meets your state's licensing rules.
-- **Don't assume one county's program exists in the next.** If your parent lives in a different state from you, what's available to you locally may not be available to them.
+- Ask directly, and ask about now. "Is that still available?" "Is that the current price?" "What's the wait as of today?"
+- Write down the date and who told you. Information from six months ago may no longer be accurate.
+- Get important details in writing, especially cost, services included, and cancellation terms.
+- Check credentials yourself where it matters, such as confirming a home health agency is Medicare-certified or a home care agency meets your state's licensing rules.
+- Don't assume one county's program exists in the next. If your parent lives in a different state from you, what's available to you locally may not be available to them.
 
 ## Start with one
 
@@ -124,10 +124,10 @@ You don't need to line up five services at once. Pick one area where outside hel
 
 To choose, look at:
 
-- **What's costing the most** in time off work, travel, or strain on one person.
-- **What's most at risk** of not getting done.
-- **What your parent would accept.** A service your parent refuses won't help.
-- **What's easiest to try.** A volunteer driver for one weekly appointment is a smaller first step than daily in-home help.
+- What's costing the most in time off work, travel, or strain on one person.
+- What's most at risk of not getting done.
+- What your parent would accept. A service your parent refuses won't help.
+- What's easiest to try. A volunteer driver for one weekly appointment is a smaller first step than daily in-home help.
 
 Here's a made-up example. Marisol has been leaving work every Tuesday and Thursday to drive her mother to physical therapy across town. Her mother doesn't want anyone in her house but doesn't mind who drives her. Marisol calls the Eldercare Locator, which connects her with her mother's Area Agency on Aging. They tell her about a volunteer driver program run by a local nonprofit. There's a two-week wait. She signs her mother up, keeps driving in the meantime, and after the first month the volunteer covers Thursdays. One call didn't solve everything, but it gave her back one afternoon a week.
 

@@ -24,10 +24,10 @@ If you worked through the earlier chapters, you've already started. The Seven-Ar
 
 The system has four parts:
 
-1. **Contacts:** who to call, for what.
-2. **A running list** of appointments, follow-ups, and open questions.
-3. **Document locations:** where important papers are kept, not copies of all of them.
-4. **Current responsibilities:** who in the family is handling what.
+1. Contacts: who to call, for what.
+2. A running list of appointments, follow-ups, and open questions.
+3. Document locations: where important papers are kept, not copies of all of them.
+4. Current responsibilities: who in the family is handling what.
 
 It can live on paper, in a password-protected document, or both. What matters more than the format is that there's one version, someone keeps it current, and the right people know where it is.
 
@@ -82,11 +82,11 @@ The more sensitive information you collect, the more harm it can do if a phone i
 
 A few guidelines:
 
-- **Record locations, not contents, wherever you can.** "Bank statements: top drawer of the desk in the den" is enough for most purposes.
-- **Don't put full account numbers, passwords, or PINs on the organizer.** If those ever need to be shared, that's your parent's decision, and they should be stored separately and securely.
-- **Be careful with identifying numbers.** The Social Security Administration advises keeping a Social Security card in a safe place at home, not carrying it, and not giving out the number unnecessarily.¹ Medicare cards use a Medicare number rather than a Social Security number, and Medicare advises protecting that number like a credit card and sharing it only with providers, insurers, and trusted people who work with Medicare.²
-- **Insurance card photos are useful but sensitive.** If you keep them, store them where only the people who need them can see them, not in a shared photo album or a group text.
-- **Clear out what's outdated.** Old medication lists, expired cards, and lists of doctors your parent no longer sees create confusion. The Federal Trade Commission includes prescription information for medicines you no longer take on its list of papers to shred.³
+- Record locations, not contents, wherever you can. "Bank statements: top drawer of the desk in the den" is enough for most purposes.
+- Don't put full account numbers, passwords, or PINs on the organizer. If those ever need to be shared, that's your parent's decision, and they should be stored separately and securely.
+- Be careful with identifying numbers. The Social Security Administration advises keeping a Social Security card in a safe place at home, not carrying it, and not giving out the number unnecessarily.¹ Medicare cards use a Medicare number rather than a Social Security number, and Medicare advises protecting that number like a credit card and sharing it only with providers, insurers, and trusted people who work with Medicare.²
+- Insurance card photos are useful but sensitive. If you keep them, store them where only the people who need them can see them, not in a shared photo album or a group text.
+- Clear out what's outdated. Old medication lists, expired cards, and lists of doctors your parent no longer sees create confusion. The Federal Trade Commission includes prescription information for medicines you no longer take on its list of papers to shred.³
 
 ## Your parent's information, your parent's call
 
@@ -96,9 +96,9 @@ That means building it with your parent rather than about them wherever possible
 
 It also helps to think about levels of access:
 
-- **An emergency page** that anyone who might be with your parent in a crisis can see. This is a single sheet with the basics: name, date of birth, emergency contacts, primary doctor, pharmacy, where the medication list is, and insurance plan names. Some families keep a copy on the fridge or in the parent's wallet, and one in the phones of the closest family members.
-- **The full organizer,** shared with your parent and one or two people who are actively helping.
-- **Anything more sensitive,** shared only as your parent directs.
+- An emergency page that anyone who might be with your parent in a crisis can see. This is a single sheet with the basics: name, date of birth, emergency contacts, primary doctor, pharmacy, where the medication list is, and insurance plan names. Some families keep a copy on the fridge or in the parent's wallet, and one in the phones of the closest family members.
+- The full organizer, shared with your parent and one or two people who are actively helping.
+- Anything more sensitive, shared only as your parent directs.
 
 For paper, a clearly labeled folder kept in a consistent place at your parent's home works well. For digital copies, use a password-protected file or account, share it with specific people rather than through an open link, and use strong, unique passwords, as the Social Security Administration recommends for any account holding personal information.¹ Avoid keeping the organizer in a group chat, where it's easy to forward and impossible to update.
 
@@ -120,12 +120,12 @@ Write down the regular jobs and who does each one: picking up prescriptions, sch
 
 An out-of-date organizer can be worse than none at all, because people trust it. A few habits keep it accurate:
 
-- **Put a "last updated" date at the top of every page.**
-- **Update after anything changes:** an appointment, a hospital stay, a new medication or provider, a change in insurance, a move, or a change in who's handling what.
-- **Pick one keeper.** One person is responsible for making updates, even if several people send them information. This avoids two versions drifting apart.
-- **Do a quick monthly review.** Ten minutes: are the phone numbers right, is the running list current, has anything changed?
-- **Do a fuller review every few months,** ideally with your parent. Remove outdated information, confirm document locations, and check that the right people have the current version.
-- **Replace old copies when you update.** Swap the sheet on the fridge, re-send the file, and ask people to discard the old version.
+- Put a "last updated" date at the top of every page.
+- Update after anything changes: an appointment, a hospital stay, a new medication or provider, a change in insurance, a move, or a change in who's handling what.
+- Pick one keeper. One person is responsible for making updates, even if several people send them information. This avoids two versions drifting apart.
+- Do a quick monthly review. Ten minutes: are the phone numbers right, is the running list current, has anything changed?
+- Do a fuller review every few months, ideally with your parent. Remove outdated information, confirm document locations, and check that the right people have the current version.
+- Replace old copies when you update. Swap the sheet on the fridge, re-send the file, and ask people to discard the old version.
 
 ## How it helps
 
