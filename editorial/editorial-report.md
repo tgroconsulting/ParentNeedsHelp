@@ -47,6 +47,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 8 | "Family expectations... sometimes shaped by birth order, gender..." is observational, no statistic claimed. | Fact | Resolved by wording |
 | 8 | Suggests "a counselor, a mediator, or a geriatric care manager" when talks break down; no claims about availability or cost beyond Ch. 4's sourced care-manager note. | Fact | Resolved by wording |
 | 8 | Responsibilities appear in both Ch. 7 (Part 4 of the organizer) and Ch. 8 (coordination worksheet). Ch. 8's worksheet is the fuller version; consider trimming Ch. 7's Part 4 to point here. | Repetition | Open |
+| 9 | Unsourced general statements: paratransit "for people who qualify"; adult day program description; "some matching websites... may be paid by the providers they recommend"; state agencies on aging can describe licensing "where they exist." All hedged. Consider sources (e.g., ADA paratransit at transit.dot.gov; NIA on adult day care; FTC or CFPB on referral services) or keep as is. | Fact | Open |
+| 9 | FMLA paragraph is general legal information; no eligibility determination. Attorney or HR-professional review optional. | Legal review | Optional |
+| 9 | Medicare home health coverage summarized from Medicare.gov; framed as background, not a benefits strategy. Re-verify before publication. | Fact | Open (re-verify at print) |
+| 9 | Cross-reference to Book 8 by working title. | Continuity | Open |
 
 ## Per-chapter review notes
 
@@ -105,3 +109,9 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 
 - Outline coverage: roles forming by accident; why shares differ (proximity, schedules, other responsibilities, relationships, skills, resources, parent preferences), with NIA support; information vs. options vs. parent's decisions, legal authority deferred; focused family conversation (one or two questions, include parent, share facts ahead, start with what works, facts before opinions, names and dates, short, written summary, ground rules); nine practical roles in a table; light communication routine (one channel, rhythm, urgent path, update template, privacy); disagreement (facts, name the question, parent's preferences, now vs. later, time-limited trial, outside information, don't assume roles predict who's right); labeled made-up example.
 - Deliverable: Family Coordination Worksheet (parent's wishes, who's involved, tasks with backup and check-in dates, communication plan, open questions sorted by type, trial agreement).
+
+### Chapter 9: Knowing When to Ask for Help (draft 1, 2026-11-02)
+
+- Outline coverage: why responsibilities expand; sorting family vs. outside tasks (six-month test, skills, parent preference, backup, gaps); work and FMLA; categories (transportation, meal programs, community aging services, home health vs. non-medical home care, adult day, caregiver support and respite, SHIP for insurance questions); where to start (AAA/Eldercare Locator, 211, SHIP, doctor/social worker/discharge planner, Care Compare, faith community, state agency on aging) with a caution about paid referral sites; question lists (service, cost, people and quality, fit); local and current verification; choosing one area, with labeled made-up example.
+- Boundary: no insurance or benefit strategies; no specific providers recommended; insurance questions routed to SHIP. Book 8 referenced.
+- Deliverable: Outside Help Starter List (needs, places to start, contacts with dates, question checklist, one-area plan).

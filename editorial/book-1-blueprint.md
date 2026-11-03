@@ -34,7 +34,7 @@
 | 6 | Is Home Still Working? Looking at Everyday Independence and Support | "Every time I visit, something else hasn't been taken care of." | Home and Daily-Life Observation Checklist | ~2,500 | Draft 1 (2026-11-02) |
 | 7 | The Information Nobody Can Find: Getting the Essentials Organized | "Nobody knows Dad's specialist, his pharmacy, or who to call." | Essential Information Organizer | ~2,500 | Draft 1 (2026-11-02) |
 | 8 | Getting the Family on the Same Page: Sharing Information, Responsibilities, and Decisions | "Everyone has an opinion, but I'm the only one doing anything." | Family Coordination Worksheet | ~2,500 | Draft 1 (2026-11-02) |
-| 9 | | | | | Not started |
+| 9 | Knowing When to Ask for Help: Understanding What Family Can and Cannot Do Alone | "I can't keep taking time off work, and I don't know what help exists." | Outside Help Starter List | ~2,500 | Draft 1 (2026-11-02) |
 | 10 | | | | | Not started |
 
 Book target: approximately 20,000–25,000 words across ten chapters, excluding supplemental materials.
@@ -206,3 +206,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 **Chapter boundary:** Avoid detailed conflict resolution, legal authority, and family financial disputes. Book 6 will concentrate on deeper family dynamics and unequal caregiving responsibilities.
 
 **Reader's final outcome:** "We have a clearer picture of who's doing what, and we're relying less on assumptions."
+
+---
+
+## Chapter 9 — Knowing When to Ask for Help
+### Understanding What Family Can and Cannot Do Alone
+
+**Opening frustration:** "I can't keep taking time off work every time something comes up, but I don't know what other help is available."
+
+**Purpose:** Help readers understand that outside assistance can be part of a responsible plan rather than a sign that the family has failed.
+
+**What this chapter must accomplish:**
+1. Explain why caregiving responsibilities frequently expand beyond the original expectations.
+2. Encourage the reader to distinguish tasks family members can manage from those requiring outside support.
+3. Introduce broad categories of assistance, such as transportation, meal programs, community aging services, home support, and caregiver assistance.
+4. Explain where readers can begin researching legitimate local organizations and resources.
+5. Provide questions for contacting a service provider or community organization.
+6. Discuss why service availability, qualifications, cost, and eligibility need current local verification.
+7. Help readers choose one realistic area where additional assistance could make an immediate difference.
+
+**Practical deliverable:** An "Outside Help Starter List" that records needed services, possible contacts, questions, and follow-up actions.
+
+**Chapter boundary:** Do not recommend specific insurance arrangements, benefits strategies, or care providers without appropriate verification. Book 8 will cover evaluating and coordinating outside care in greater detail.
+
+**Reader's final outcome:** "I know where to begin looking for help, and I don't have to personally handle every responsibility."
