@@ -26,6 +26,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 | 3 | Old draft's statistics dropped (Michigan poll on medication reviews, CDC 2022 older-driver deaths, IIHS crash rates, FBI 2025 fraud losses, Health Affairs advance-directive rates) and the claim that household tasks decline before self-care. Not re-verified and not needed. | Fact | Dropped |
 | 3 | Cross-references to a home-safety book and to finances in "later chapters" need checking against final outlines. | Continuity | Open |
 | 3 | Length about 3,900 words including the assessment tool (about 3,050 of prose). Longest chapter so far, driven by the broadened assessment. Candidates to trim if needed: "When to bring in professional help" and the scripts. | Length | Decision for author |
+| 4 | Outline order: Chapter 4's outline says to "introduce" the main areas of daily life, but Chapter 3 already walks through seven areas. Chapter 4 handles this by framing its six areas as "how ordinary days are going," versus Chapter 3's paperwork side, and by pointing back to Chapter 3. Consider whether the chapter order or framing should change once all outlines are in. | Continuity | Decision for author |
+| 4 | Some overlap with Chapter 1 (writing down observations) and Chapter 3 (asking without interrogating). Chapter 4 avoids repeating Chapter 3's specific tactics and focuses on sorting sources, reconciling family views, and privacy. Recheck in the full-book repetition pass. | Repetition | Open |
+| 4 | Illustrative family in the four-kinds-of-information table is unnamed apart from a neighbor ("Mrs. Alvarez") and labeled as made up. | Author confirmation | Resolved |
+| 4 | Opening mentions the Cardinals (St. Louis baseball). Regional detail; change if the author prefers neutral. | Style | Optional |
 
 ## Per-chapter review notes
 
@@ -55,3 +59,10 @@ Internal only. Unresolved factual questions, professional-review concerns, and i
 - Records list adds discharge papers, treatment/therapy schedules, and rehab/home-exercise instructions.
 - Plain-language guardrail stated explicitly near the start.
 - Lindqvist family shows gathering without taking over: copies papers rather than reading them in front of her, asks what the doctor said, asks to attend, accepts "not yet" on portal access, records baseline; remote sibling contributes by phone.
+
+### Chapter 4: What's Actually Going On? (draft 1, 2026-11-02)
+
+- Outline coverage: why views differ (time slices, parent behaves differently by person, distance, thresholds, stakes, parent's own view); four kinds of information (saw / told / concluded / assumed or feared) with a worked table; six daily-life areas (meals, transportation, household, social, mobility, appointments); asking without interrogating (routine questions, what's working, parent's view first, side-by-side, one topic, no quizzing); blind spots from distance and short visits; documenting respectfully and privacy (need-to-know, group texts, parent may read it, preferences in their words); unknowns and who can clarify (parent, doctor, pharmacist, people who see them with consent, Area Agency on Aging/Eldercare Locator, geriatric care manager).
+- Boundary stated twice: not a formal clinical, cognitive, or home-safety assessment.
+- Deliverable: Current Situation Snapshot with observations (with source tags), parent preferences, unknowns, who can clarify, agreement/disagreement, and next steps.
+- Only two source-dependent claims (Eldercare Locator, geriatric care manager costs), both logged.

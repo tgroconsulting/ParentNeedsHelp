@@ -29,7 +29,7 @@
 | 1 | Something Has Changed: Recognizing When an Aging Parent May Need Help | "Things aren't quite right, but am I overreacting?" | "What I've Noticed" worksheet | ~2,500 | Draft 1 (2026-11-02) |
 | 2 | Is This an Emergency or Just a Bad Week? | "Everything feels urgent; what needs attention today?" | Red-Yellow-Green Sorting Card | ~2,500 | Draft 1 (2026-11-02) |
 | 3 | Everyone Says "Get Organized," But Organize What? | "Nobody tells me exactly what information I need." | Seven-Area Aging Parent Assessment | ~2,500 | Draft 1 (2026-11-02) |
-| 4 | | | | | Not started |
+| 4 | What's Actually Going On? Separating Facts, Assumptions, and Family Opinions | 'My sister thinks Dad is fine. I think something is wrong.' | Current Situation Snapshot | ~2,500 | Draft 1 (2026-11-02) |
 | 5 | | | | | Not started |
 | 6 | | | | | Not started |
 | 7 | | | | | Not started |
@@ -86,3 +86,27 @@ Book target: approximately 20,000–25,000 words across ten chapters, excluding 
 - Add discharge papers, treatment schedules and rehabilitation instructions to the records readers may need to locate.
 - Use the diagnosis-first family to demonstrate gathering information without taking over (author chose a new family: the Lindqvists).
 - Do not turn the assessment into a medical chart. Keep it usable by an ordinary family member.
+
+---
+
+## Chapter 4 — What's Actually Going On?
+### Separating Facts, Assumptions, and Family Opinions
+
+**Opening frustration:** "My sister thinks Dad is fine. I think something is wrong. Dad says we're both making a big deal out of nothing."
+
+**Purpose:** Help readers develop a clearer picture of the parent's circumstances before making major decisions.
+
+**What this chapter must accomplish:**
+1. Explain why different family members can have very different views of the same situation.
+2. Distinguish what someone directly observed from what they heard, inferred, or assumed.
+3. Introduce the main areas of daily life that may deserve attention: meals, transportation, household responsibilities, social connections, mobility, and appointments.
+4. Show how to ask questions without turning conversations into interrogations.
+5. Discuss how distance, infrequent visits, and incomplete information create blind spots.
+6. Explain how to document concerns respectfully while protecting privacy.
+7. Help the reader identify what remains unknown and who might appropriately help clarify it.
+
+**Practical deliverable:** A "Current Situation Snapshot" with categories for observations, parent preferences, unknowns, and next steps.
+
+**Chapter boundary:** This is not a formal clinical, cognitive, or home-safety assessment.
+
+**Reader's final outcome:** "I have a clearer picture of the situation and know what information is still missing."
