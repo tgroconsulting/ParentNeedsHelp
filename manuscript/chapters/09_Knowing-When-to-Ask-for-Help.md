@@ -26,7 +26,7 @@ Other things family can do, but only at a real cost: leaving work again, driving
 
 When you look at your list of tasks (the Family Coordination Worksheet from Chapter 8 is a good starting point), a few questions help sort them:
 
-- Could we keep doing this for the next six months? If the honest answer is no, it's worth looking for another way.
+- Could we keep doing this for the next six months? If the honest answer is no, look for another way.
 - Does it require skills or training we don't have? If so, it belongs with someone who has them.
 - What does my parent prefer? Some parents would much rather have a hired helper with bathing than have their son do it. Others feel the opposite.
 - What happens when the person doing it is sick, traveling, or burned out? If the answer is "nobody does it," that task needs a backup, and the backup may be outside the family.
@@ -36,9 +36,9 @@ Your parent's input matters throughout. Outside help in their home, their schedu
 
 ## If work is part of the problem
 
-For many adult children, the pressure point is a job. It's worth knowing what protections may apply. According to the U.S. Department of Labor, the Family and Medical Leave Act entitles eligible employees to up to twelve workweeks of unpaid, job-protected leave in a twelve-month period to care for a parent with a serious health condition.¹ Whether you're eligible depends on your employer and your work history, and some states have their own leave laws. Your human resources department can tell you what applies to you, and the Department of Labor's website explains the federal rules in detail.
+For many adult children, the pressure point is a job. Some legal protections may apply. According to the U.S. Department of Labor, the Family and Medical Leave Act entitles eligible employees to up to twelve workweeks of unpaid, job-protected leave in a twelve-month period to care for a parent with a serious health condition.¹ Whether you're eligible depends on your employer and your work history, and some states have their own leave laws. Your human resources department can tell you what applies to you, and the Department of Labor's website explains the federal rules in detail.
 
-It may also be worth asking your employer whether they offer flexible schedules, remote work, or an employee assistance program. These vary widely, but you won't know until you ask.
+You can also ask your employer whether they offer flexible schedules, remote work, or an employee assistance program. These vary widely, but you won't know until you ask.
 
 ## The kinds of help that exist
 
@@ -50,7 +50,7 @@ What's available depends heavily on where your parent lives. But most communitie
 
 **Community aging services.** Your parent's local Area Agency on Aging is often the hub for information about services in the area, from meals and homemaker help to caregiver programs (Chapter 4 explains how to find it). Senior centers may offer activities, meals, exercise classes, and help connecting with other services.
 
-**Help at home.** It's worth knowing that "home care" can mean two quite different things.
+**Help at home.** "Home care" can mean two quite different things.
 
 - *Home health care* is medical care at home, such as skilled nursing or physical therapy, usually ordered by a doctor. Medicare covers home health services under certain conditions, including that the person is homebound, needs part-time or intermittent skilled care, and has been seen by a doctor or other provider who certifies the need. Medicare doesn't cover 24-hour care at home, home meal delivery, homemaker services such as shopping and cleaning that are unrelated to the care plan, or personal care when that's the only care someone needs.⁴
 - *Non-medical home care* covers help with daily activities, such as bathing, dressing, light housekeeping, meals, errands, and companionship. It's often paid for privately, though some programs and insurance plans may help. Ask each provider what payment they accept.
@@ -129,7 +129,7 @@ To choose, look at:
 - What your parent would accept. A service your parent refuses won't help.
 - What's easiest to try. A volunteer driver for one weekly appointment is a smaller first step than daily in-home help.
 
-Here's a made-up example. Marisol has been leaving work every Tuesday and Thursday to drive her mother to physical therapy across town. Her mother doesn't want anyone in her house but doesn't mind who drives her. Marisol calls the Eldercare Locator, which connects her with her mother's Area Agency on Aging. They tell her about a volunteer driver program run by a local nonprofit. There's a two-week wait. She signs her mother up, keeps driving in the meantime, and after the first month the volunteer covers Thursdays. One call didn't solve everything, but it gave her back one afternoon a week.
+Consider a hypothetical caregiver named Marisol, who has been leaving work every Tuesday and Thursday to drive her mother to physical therapy across town. Her mother doesn't want anyone in her house but doesn't mind who drives her. Marisol calls the Eldercare Locator, which connects her with her mother's Area Agency on Aging. They tell her about a volunteer driver program run by a local nonprofit. There's a two-week wait. She signs her mother up, keeps driving in the meantime, and after the first month the volunteer covers Thursdays. One call didn't solve everything, but it gave her back one afternoon a week.
 
 Evaluating and coordinating outside care in more depth, including comparing providers and managing paid help over time, is the subject of a later book in this series, *When Family Help Isn't Enough*.
 
@@ -180,9 +180,9 @@ First call: ______________ By: ___________ Follow up on: ___________
 
 ---
 
-## This week
+## One call
 
-Choose the one task that's costing you the most, and make one call about it: to the Eldercare Locator, 211, or your parent's doctor's office. Write down who you talked to and what they said. Even if the answer is "not here," you'll know where to try next.
+Pick the task that's costing you the most, and make one call about it this week: to the Eldercare Locator, 211, or your parent's doctor's office. Write down who you talked to and what they said. Even if the answer is "not here," you'll know where to try next.
 
 ---
 

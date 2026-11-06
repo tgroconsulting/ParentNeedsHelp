@@ -4,9 +4,9 @@
 
 ## Looking at Everyday Independence and Support
 
-Every time you visit, there's something else. Last month it was the gutters. This month the hallway light has been out long enough that your mother has stopped noticing, the laundry basket at the top of the stairs is full, and there's a carton of eggs in the fridge from sometime in the spring. None of it is a disaster. But it's starting to feel like a list that only gets longer.
+Last month it was the gutters, full enough that water ran down the siding during the storm. This month the hallway light has been out long enough that your mother has stopped noticing, the laundry basket at the top of the stairs is full, and there's a carton of eggs in the fridge from sometime in the spring. You fix the light. You make a mental note about the eggs. And on the drive home you realize you've started dreading the walk-through you do every time you arrive, because there's always something new on it.
 
-It's natural, at that point, for your mind to jump ahead to the big question: can she really keep living here? Sometimes that question does need asking eventually. But it's rarely the right first question, and jumping to it too soon can make every conversation about the gutters feel like a conversation about moving out.
+None of it is a disaster. But when the list keeps growing, it's natural for your mind to jump ahead to the big question: can she really keep living here? Sometimes that question does need asking eventually. But it's rarely the right first question, and jumping to it too soon can make every conversation about the gutters feel like a conversation about moving out.
 
 This chapter takes a smaller and usually more useful approach. Instead of asking whether your parent can stay home, it asks which parts of everyday life at home have gotten harder, what your parent thinks about that, and what kind of support might make those parts easier.
 
@@ -16,7 +16,7 @@ For many older adults, staying in their own home isn't a minor preference. In AA
 
 The reasons are easy to understand once you think about them. Home is where your parent knows where everything is, down to the drawer with the rubber bands. It's their routine, their neighbors, their church or coffee shop down the street, their garden, maybe their pet. It holds decades of memories. And it's where they're in charge. In their own home, nobody tells them when to eat or what to watch.
 
-That's worth keeping in mind every time you notice something that's slipped. To you, the full laundry basket may look like a sign of decline. To your parent, a suggestion that they can't manage their own home may feel like the first step toward losing it. When you approach these conversations as "what would help home keep working for you," you're on the same side. And for many families, that's an honest description of the goal.
+Keep that in mind every time you notice something that's slipped. To you, the full laundry basket may look like a sign of decline. To your parent, a suggestion that they can't manage their own home may feel like the first step toward losing it. When you approach these conversations as "what would help home keep working for you," you're on the same side. And for many families, that's an honest description of the goal.
 
 ## What "working" means
 
@@ -48,7 +48,7 @@ What's worth paying attention to is a pattern: the same difficulty showing up ag
 
 - How often? Once, occasionally, or most of the time?
 - For how long? Since last week, or for months?
-- Is there an obvious reason? A cold, a sprained wrist, grief after a friend's death, a heat wave. Temporary causes often lead to temporary changes, though it's worth noticing whether things bounce back.
+- Is there an obvious reason? A cold, a sprained wrist, grief after a friend's death, a heat wave. Temporary causes often lead to temporary changes, though you'll want to see whether things bounce back.
 - Has your parent found a workaround? Someone who can't reach the top shelf anymore but has moved everything down to the counter has solved the problem. Someone who can't reach it and has stopped using what's up there hasn't.
 - What happens because of it? Dusty shelves don't hurt anybody. Not eating enough, missing medications, or not being able to get out of the house for weeks has real consequences.
 
@@ -121,9 +121,11 @@ To choose:
 3. Pick something easy to start and easy to undo. A trial month of grocery pickup is a much smaller step than a cleaning service three days a week.
 4. Agree on when you'll check in. "Let's see how it goes for a few weeks and then talk about it."
 
-Here's a made-up example. A father mentions that carrying laundry up and down the basement stairs has gotten hard, and his daughter has noticed he's been wearing the same few shirts. He doesn't want anyone doing his laundry. They agree to try two small things: she'll carry the full basket down when she visits on Sundays, and they'll move a hamper to the bedroom so he isn't carrying clothes around the house. After a month, he says it's working, and he's started asking her about the gutters. One small change made the next conversation easier.
+Picture, for example, a father who mentions that carrying laundry up and down the basement stairs has gotten hard. His daughter has noticed he's been wearing the same few shirts. He doesn't want anyone doing his laundry. They agree to try two small things: she'll carry the full basket down when she visits on Sundays, and they'll move a hamper to the bedroom so he isn't carrying clothes around the house. After a month, he says it's working, and he's started asking her about the gutters. One small change made the next conversation easier.
 
 Some situations do call for bigger decisions eventually: more help at home, changes to the house, or a different living arrangement. Those are real conversations, and a later book in this series, *Is It Still Safe for Mom or Dad to Live Alone?*, takes them on in depth. For now, the goal is a clearer sense of where support would help, and a first step your parent agrees to.
+
+A good way to find that first step is a single question on your next visit: "If you could hand off one chore for good, which one would it be?" Write down the answer in your parent's words. The checklist below gives you a place to put it, along with everything else you notice.
 
 ## Tool: Home and Daily-Life Observation Checklist
 
@@ -169,12 +171,6 @@ Discussed with doctor? ☐ Yes ☐ Not yet
 **How it went** (fill in at check-in)
 
 _____________________________________________________________________________
-
----
-
-## This week
-
-On your next visit, ask your parent one question: "If you could hand off one chore for good, which one would it be?" Write down the answer in their words. That may be your first change.
 
 ---
 

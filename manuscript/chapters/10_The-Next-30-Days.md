@@ -113,7 +113,7 @@ You don't need to prepare for all of this now. Many families face only some of i
 
 ## How a plan can look
 
-Here's a made-up example of part of a plan, to show how simple it can be.
+To show how simple a plan can be, here's part of one for an imaginary family.
 
 Theo's father, Ray, came home from a short hospital stay three weeks ago. Theo has been running on adrenaline ever since. When he sits down to plan, he picks three priorities: getting Ray's new medication list checked by the pharmacist, finding reliable rides to Ray's twice-weekly cardiac rehab so Theo can stop leaving work, and getting Ray's permission on file at the cardiologist's office so Theo can call with questions. Ray's own priority is getting back to his Wednesday coffee group, so that goes on the list too.
 

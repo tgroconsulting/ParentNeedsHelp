@@ -4,11 +4,11 @@
 
 ## Separating Facts, Assumptions, and Family Opinions
 
-Your sister thinks Dad is fine. You think something is wrong. Dad says you're both making a big deal out of nothing.
+The call starts out fine. You mention the burned pan you found in your father's sink on Saturday, and the stack of mail on the dining table. Your sister points out that he did his own taxes in April and beat her at cribbage last weekend. You say that's not the point. She says you always do this. Your father, who is on the line too, says the two of you are making a federal case out of nothing and asks whether anyone has seen the Cardinals' new manager.
 
-All three of you are talking about the same man, and all three of you are fairly sure you're right. The conversation goes in circles. Your sister points out that he still does his own taxes. You point out the burned pan in the sink. Dad changes the subject to the Cardinals. Everyone hangs up a little more frustrated than before, and nothing has moved.
+Twenty minutes later everyone hangs up a little more annoyed than before, and nothing has moved. You still think something is wrong. Your sister still thinks he's fine. And Dad still thinks you're both overreacting.
 
-The problem usually isn't that someone is lying or that someone doesn't care. It's that each person is working from a different set of information, mixed in with a fair amount of guessing, and nobody has sorted the two apart. This chapter is about doing that sorting, so that whatever you decide next is built on what's actually happening rather than on whoever argues loudest.
+Usually nobody in a conversation like that is lying, and nobody has stopped caring. Each person is working from a different set of information, mixed with a fair amount of guessing, and nobody has sorted the two apart. This chapter is about doing that sorting, so that whatever you decide next is built on what's actually happening rather than on whoever argues loudest.
 
 ## Why everyone sees it differently
 
@@ -26,7 +26,7 @@ People have different stakes. Whoever lives closest will likely do most of the h
 
 And then there's your parent. Dad's view deserves real weight. He knows more about his own life than anyone, and his preferences matter whether or not you agree with them. At the same time, people of any age can minimize problems they'd rather not face, or simply not notice gradual changes in themselves. Listening to him seriously and recognizing that his view is also partial aren't in conflict.
 
-The goal isn't to figure out who's right. It's to put everyone's pieces on the table and see what picture they actually make.
+Figuring out who's right matters less than getting everyone's pieces on the table and seeing what picture they make together.
 
 ## Four kinds of information
 
@@ -57,7 +57,7 @@ You don't need to label every sentence your sister says. But when you're writing
 
 ## The parts of daily life worth looking at
 
-In Chapter 3 you started gathering the paperwork side of your parent's life: doctors, medications, documents. This is the other side, how ordinary days are actually going. Six areas tend to tell you the most. For each, the question isn't whether things are perfect. It's whether anything has changed and whether your parent is managing in a way that works for them.
+In Chapter 3 you started gathering the paperwork side of your parent's life: doctors, medications, documents. This is the other side, how ordinary days are actually going. Six areas tend to tell you the most. For each, ask whether anything has changed and whether your parent is managing in a way that works for them.
 
 **Meals.** What's your parent actually eating, and who's making it? Are there groceries in the house? Are they eating regular meals, or snacking through the day? Has their weight or appetite changed? Do they still enjoy cooking, or has it become a chore they avoid?
 
@@ -126,7 +126,7 @@ Include your parent's preferences, in their words. "Dad wants to keep driving to
 Once you've sorted what you know, the most useful part of the picture is often the list of what you don't. Write those questions down. Then, for each one, think about who could actually answer it.
 
 - Your parent. Start here for almost everything. Many unknowns are things nobody has simply asked.
-- Your parent's doctor. For questions about health, memory, or physical changes. Doctors don't always have to share information with family (Chapter 3 covers how that works), but you can always tell them what you've observed, and your parent can invite you to an appointment.
+- Your parent's doctor. For questions about health, memory, or physical changes. Doctors don't always have to share information with family (Chapter 5 covers how permission works), but you can always tell them what you've observed, and your parent can invite you to an appointment.
 - A pharmacist. For questions about whether medications might be connected to changes you're seeing.
 - People who see your parent regularly, with your parent's agreement: a neighbor, a friend, a home health aide, someone at their place of worship.
 - Your local Area Agency on Aging. For questions about what help exists in your parent's community. The Eldercare Locator, a public service of the federal Administration for Community Living, can connect you with local resources such as in-home help and transportation. You can reach it at 1-800-677-1116 or eldercare.acl.gov.¹

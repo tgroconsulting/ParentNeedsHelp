@@ -14,7 +14,7 @@ Part of the difficulty is that you may not have a clear sense of your parent's n
 
 The other part is that serious problems in older adults don't always look serious. The National Heart, Lung, and Blood Institute notes that heart attack symptoms can start slowly and be mild, that shortness of breath is a more common symptom in older adults, and that "silent" heart attacks with very mild or no symptoms are more common in older adults and people with diabetes.¹ Sudden confusion can be a sign that something physical is going on; MedlinePlus lists infections such as urinary tract infections and pneumonia, and certain medicines, among the causes of delirium.² A parent who "just isn't themselves today" may have a perfectly ordinary bad day, or may need to be seen.
 
-The reverse is true too. Most bad weeks really are just bad weeks. The point of a system isn't to make you suspicious of everything. It's to help you act quickly on the few things that can't wait, so the rest can go back to being ordinary.
+The reverse is true too. Most bad weeks really are just bad weeks. A system shouldn't make you suspicious of everything. It should help you act quickly on the few things that can't wait, so the rest can go back to being ordinary.
 
 You don't need to figure out what's causing a change. You need to recognize the change and get it to someone who can.
 
@@ -92,7 +92,7 @@ Hospital discharge and care transitions get their own book in this series. For n
 
 ## How the colors play out
 
-Here's a made-up example to show how the same worry can land in three different places.
+To see how the same worry can land in three different places, imagine this situation.
 
 A neighbor calls to say your father seemed confused when she stopped by and kept asking what day it was.
 
@@ -120,7 +120,7 @@ When you call, have a few facts ready: your parent's name and date of birth, wha
 
 ## Tool: Red-Yellow-Green Sorting Card
 
-Print this, fill in the numbers, and keep one copy by your phone and one at your parent's home (with their agreement). It's meant to be read in thirty seconds when you're worried.
+Print this, fill in the numbers, and keep one copy by your phone and one at your parent's home (with their agreement). It's meant to be read in thirty seconds when you're worried. Filling in the numbers takes about ten minutes now, which is a lot easier than finding them at 9 p.m. on a Sunday. If your parent was recently in the hospital, copy the after-hours number from the discharge paperwork onto the card.
 
 ---
 
@@ -160,12 +160,6 @@ Gradual changes over months · Household, bills, paperwork · One-time minor sli
 | | | | | | |
 | | | | | | |
 | | | | | | |
-
----
-
-## This week
-
-Fill in the numbers on the card. It's a ten-minute job now and a much harder one at 9 p.m. on a Sunday. If your parent has recently been in the hospital, find the discharge paperwork and write the after-hours number on the card. Then put the card somewhere you'll actually see it.
 
 ---
 

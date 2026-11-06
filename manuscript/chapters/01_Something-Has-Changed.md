@@ -18,7 +18,7 @@ Change that happens slowly doesn't announce itself. A parent who has been cookin
 
 Most of us also see our parents in short, structured windows. A Sunday phone call. Dinner once a month. A long weekend at the holidays. Those are the situations people are best at managing. Your parent knows you're coming, the house gets picked up, and a two-hour visit doesn't test the same things a full ordinary Tuesday does.
 
-Then there's the fact that almost every individual change has a reasonable explanation, and your parent will often supply it before you can ask. The bill was lost in the mail. The car got dinged in a parking lot. They skipped book club because they were tired of the woman who talks too much. Each explanation may be completely true. The question isn't whether any single incident has an innocent explanation. It's whether a pattern is forming.
+Then there's the fact that almost every individual change has a reasonable explanation, and your parent will often supply it before you can ask. The bill was lost in the mail. The car got dinged in a parking lot. They skipped book club because they were tired of the woman who talks too much. Each explanation may be completely true. What matters is whether the incidents are starting to add up to a pattern.
 
 And parents don't always tell us things. Some of that is privacy, some is pride, and some is a real desire not to worry anyone. Falls are a good example: according to the CDC, about a quarter of adults 65 and older fall each year, but fewer than half of them tell their doctor.¹ If they're not telling their doctor, they may not be telling you either.
 
@@ -36,11 +36,11 @@ There's no single doorway into this. Some families get a clear, sudden event. Ot
 
 **Changes around the house.** Mail stacking up unopened. Expired food in the refrigerator, or very little food at all. Laundry piling up. A yard or a house that's gone from tidy to neglected. Burned pots. Scrapes and dents on the car. The house is often where daily functioning shows up most honestly.
 
-**Pulling back from people and activities.** A parent who stops going to church, stops calling friends, quits the bowling league, or seems less interested in things they used to enjoy. Withdrawal can have many causes, including grief, hearing loss that makes conversation exhausting, mobility problems that make getting out harder, low mood, or simply a change in preference. It's worth noticing either way.
+**Pulling back from people and activities.** A parent who stops going to church, stops calling friends, quits the bowling league, or seems less interested in things they used to enjoy. Withdrawal can have many causes, including grief, hearing loss that makes conversation exhausting, mobility problems that make getting out harder, low mood, or simply a change in preference. Either way, write it down.
 
 **A gradual increase in needing help.** Sometimes there's no single change, just more calls. Could you come look at the computer? Could you drive me to the appointment? Could you read this letter from Medicare and tell me what it means? Each request is small. Added together over a year, they may tell you something about how much your parent is now managing alone, and how much they're relying on you without either of you having said so.
 
-It's also worth separating sudden changes from gradual ones, because they call for different responses. A change that appears over hours or a day or two, like new confusion, a sudden inability to walk, or a dramatic shift in behavior, is a different situation from something that's been creeping along for months. We'll come back to that distinction later in this chapter because it matters a great deal.
+Sudden changes and gradual ones also need to be kept apart, because they call for different responses. A change that appears over hours or a day or two, like new confusion, a sudden inability to walk, or a dramatic shift in behavior, is a different situation from something that's been creeping along for months. We'll come back to that distinction later in this chapter because it matters a great deal.
 
 ## Noticing is not the same as knowing why
 
@@ -94,7 +94,7 @@ You don't need a big sit-down conversation at this stage. Small, honest, low-pre
 
 Then listen more than you talk. If they give an explanation, take it seriously, even if you're not fully convinced. If they don't want to discuss it right now, that's information too, and it doesn't have to be the last word. You can come back to it.
 
-How you approach a resistant parent, and what to do when you and your parent see the situation very differently, comes later in this book. For now, the main thing is to start from respect: you're asking, not telling.
+Chapter 4 comes back to these conversations, including what to do when you, your parent, and the rest of the family see things differently, and Chapter 6 looks at how to talk about help your parent might or might not want. For now, the main thing is to start from respect: you're asking, not telling.
 
 ## How urgent is this?
 

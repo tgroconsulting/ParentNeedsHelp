@@ -4,11 +4,11 @@
 
 ## Being Helpful Without Becoming the Doctor
 
-Mom went to three appointments this month. There was the cardiologist, a follow-up with her primary care doctor, and something at the imaging center that might have been an ultrasound. When you asked how they went, she said, "Fine. They want to see me again." Your brother thinks one of her pills was changed. Your aunt heard something about a referral. Nobody's sure whether there are test results coming, or who's supposed to call whom.
+Your mother's calendar for October has the cardiologist on the 4th, her regular doctor on the 11th, and something at the imaging center on the 20th that might have been an ultrasound. When you asked how they went, she said, "Fine. They want to see me again." Your brother thinks one of her pills was changed. Your aunt heard something about a referral. Nobody's sure whether there are test results coming, or who's supposed to call whom.
 
 This is one of the most common ways families get stuck. Nobody is ignoring anything. The information simply scatters. A little of it stays in the exam room, a little comes home in your parent's memory, a little ends up on a sheet of paper in her purse, and the rest drifts off somewhere between three relatives and a group text.
 
-This chapter is about catching that information. It's not about understanding the medicine, second-guessing anyone's treatment, or making decisions on your parent's behalf. It's about helping appointments go well and making sure that what was decided actually happens afterward.
+This chapter is about catching that information: helping appointments go well and making sure that what was decided actually happens afterward. Understanding the medicine, second-guessing anyone's treatment, and making decisions on your parent's behalf all stay with your parent and their doctors.
 
 ## Why so much gets lost
 
@@ -18,7 +18,7 @@ Several providers, not much connection between them. Your parent may see a prima
 
 Visits are short and dense. A lot of information can come out in fifteen minutes: a new symptom to watch, a dose change, a test to schedule, a referral. Even someone who's paying close attention can leave with only part of it.
 
-The setting doesn't help. Exam rooms can be noisy and rushed, and medical terms aren't everyday language. If your parent has trouble hearing, forgot their glasses, or was anxious about the visit, it's even harder to take it all in. None of this says anything about your parent's intelligence. Most people of any age walk out of a medical appointment remembering less than they think.
+The setting doesn't help. Exam rooms can be noisy and rushed, and medical terms aren't everyday language. If your parent has trouble hearing, forgot their glasses, or was anxious about the visit, it's even harder to take it all in. None of this says anything about your parent's intelligence. Anyone, at any age, can leave an appointment with only part of what was said.
 
 "It went fine" isn't a summary. Your parent may genuinely think it went fine, or may not want to worry you, or may just be tired of talking about it. You end up with the reassurance and none of the details.
 

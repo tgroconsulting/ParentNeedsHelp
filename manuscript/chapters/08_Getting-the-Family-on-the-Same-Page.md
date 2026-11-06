@@ -6,7 +6,7 @@
 
 The family group text has forty-one new messages. Your brother thinks Mom should move in with someone. Your sister thinks she needs "a nurse or something." A cousin has forwarded an article about smart home sensors. Everyone has an idea about what should happen, and several of them are good ideas. Meanwhile, you're the one who drove Mom to three appointments this month, picked up her prescriptions twice, and fixed the garbage disposal on Saturday.
 
-It's a very common situation, and it isn't usually because anyone is lazy or uncaring. It's because nobody ever actually talked about who would do what. Opinions are easy to share in a group text. Responsibilities need a different kind of conversation.
+It's a very common situation. Usually nobody is lazy or uncaring; nobody ever actually talked about who would do what. Opinions are easy to share in a group text. Responsibilities need a different kind of conversation.
 
 This chapter is about having that conversation: getting the family working from the same information, dividing the work in a way that fits people's real lives, and keeping it going without a meeting every week.
 
@@ -18,7 +18,7 @@ Someone answers the phone the night of the first fall, and from then on they're 
 
 None of this is unusual, and in the early days it often works well enough. The trouble is that roles formed by accident tend to be uneven, invisible, and hard to change. The person doing the most may not have chosen it. The people doing less may not realize how much there is. And nobody has said any of it out loud, so nobody can adjust it.
 
-Naming who's doing what isn't about assigning blame. It's about making the arrangement visible so the family can decide whether it's the one they want.
+Naming who's doing what makes the arrangement visible, without assigning blame, so the family can decide whether it's the one they want.
 
 ## Why everyone's share looks different
 
@@ -34,7 +34,7 @@ A fair division of responsibilities rarely means an equal one. People's circumst
 
 The National Institute on Aging suggests that, ideally, each person take on the tasks best suited to their skills and interests, and notes that family members who live far away can still offer emotional support, coordinate some aspects of care from a distance, and help the main caregiver take breaks.¹
 
-Different isn't the same as uneven. The goal is to make sure everyone who's able to contribute has a real, specific way to do it.
+Different shares can still be fair ones, as long as everyone who's able to contribute has a real, specific way to do it.
 
 ## Sharing information is not the same as deciding
 
@@ -132,7 +132,7 @@ Some families have long histories that make these conversations harder than any 
 
 ## How it can look
 
-Here's a made-up example.
+*The family in this example is hypothetical.*
 
 Sam lives near her mother. Her brother Jordan lives four hours away. Her sister Alicia lives overseas. For three months Sam has done nearly everything, and her siblings have mostly sent suggestions. Sam finally sets up a video call with one question on the agenda: how to cover appointments and rides through the end of the year. Their mother joins for the first twenty minutes, says she wants Sam at her doctor's appointments but would be happy to have "anyone at all" drive her to physical therapy, and says she doesn't want to hear about the rest.
 

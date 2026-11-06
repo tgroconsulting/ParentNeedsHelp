@@ -129,7 +129,7 @@ An out-of-date organizer can be worse than none at all, because people trust it.
 
 ## How it helps
 
-Here's a made-up example of what this looks like when it works.
+*Kim and her father are invented for this example.*
 
 Six weeks after Kim builds her father's organizer, he's taken to the emergency room after a fall. His neighbor, who has a copy of the emergency page, rides along and hands it to the nurse: medications, cardiologist, pharmacy, insurance plans, and Kim's number. Kim's brother, who lives out of state, pulls up the full organizer on his phone and calls the cardiologist's office while Kim drives to the hospital. Nobody had to guess, and nobody had to search the house for a folder.
 
@@ -250,9 +250,9 @@ Next monthly check: ___________ Next full review with my parent: ___________
 
 ---
 
-## This week
+## One page first
 
-Fill in the emergency page with your parent. It's one sheet and it's the part most likely to matter in a hurry. Put one copy where your parent agrees it should go and one in your phone. The rest of the organizer can fill in over the coming weeks.
+If you do only one part of this, make it the emergency page, filled in with your parent. It's one sheet, and it's the part most likely to matter in a hurry. Put one copy where your parent agrees it should go and one in your phone. The rest of the organizer can fill in over the coming weeks.
 
 ---
 
